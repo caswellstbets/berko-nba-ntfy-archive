@@ -1,0 +1,47 @@
+name: Archive new ntfy messages
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub often starts scheduled runs late, but ntfy keeps
+    # messages ~12 hours, so there's plenty of slack to never miss one.
+    - cron: '*/10 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch new ntfy messages
+        run: python3 scripts/update.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add notifications.jsonl README.md CHANGELOG.md
+          [ -f state.json ] && git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive new ntfy activity"
+            git push
+          fi
+
+      # GitHub turns off scheduled workflows in a public repo after 60 days
+      # with no commits. During long quiet stretches (offseason), leave an
+      # empty commit every 30 days so this keeps running. Empty commits change
+      # no files, so they don't clutter the changelog.
+      - name: Keepalive
+        run: |
+          last=$(git log -1 --format=%ct)
+          if [ $(( $(date +%s) - last )) -gt $(( 30 * 24 * 3600 )) ]; then
+            git commit --allow-empty -m "Keepalive: still checking, no new messages"
+            git push
+          fi
