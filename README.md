@@ -1,6 +1,8 @@
 # berko-nba ntfy archive
 
-Read-only snapshot of the ntfy topic `berko-nba-20260414-172920`, captured 2026-11-09. Raw messages are in `notifications.jsonl`.
+Permanent, append-only record of the ntfy topic `berko-nba-20260414-172920`, checked every 10 minutes.
+Raw messages are in `notifications.jsonl`; `CHANGELOG.md` lists what each check added or
+found missing, and the commit history shows any change ever made to the files.
 
 ## PAPER MLB 2026-11-09: no edges
 *2026-11-09 14:30 UTC · id `pPOobhDdWn5x`*
@@ -48,4 +50,79 @@ Book to check: BetMGM | Model size: 4.95 units
 Model edge: +8.82% | Confidence: High
 
 Regular Season | Nov 09, 2026 | 5:52 PM EST
+```
+
+## NBA New Pick: Over 218.5 at -105
+*2026-11-09 23:07 UTC · id `EjuosrC55MjU`*
+
+```
+WAS @ DET
+Book to check: Pinnacle | Model size: 2.97 units
+Model edge: +5.02% | Confidence: Medium
+
+Other active picks in the games checked (1):
+CLE @ CHA: Over 215.0 at -100
+
+Regular Season | Nov 09, 2026 | 6:07 PM EST
+```
+
+## NBA Pick Updated: Over 218.5 at -108
+*2026-11-09 23:10 UTC · id `0rfxchoOrY3f`*
+
+```
+WAS @ DET
+Odds: -105 -> -108
+Book: Pinnacle -> BetMGM
+Size: 2.97 units -> 2.77 units
+Edge: +5.02% -> +4.57%
+Confidence: Medium -> Low
+Book to check: BetMGM | Model size: 2.77 units
+Model edge: +4.57% | Confidence: Low
+
+Other active picks in the games checked (1):
+CLE @ CHA: Over 215.0 at -100
+
+Regular Season | Nov 09, 2026 | 6:10 PM EST
+```
+
+## NBA Picks: 2 updated
+*2026-11-09 23:16 UTC · id `VKVfqEYa79mY`*
+
+```
+Updated picks (2):
+CLE @ CHA: Over 215.5 at -100
+Pick: Over 215.0 -> Over 215.5
+Size: 4.95 units -> 4.74 units
+Edge: +8.82% -> +8.56%
+Book to check: BetMGM | Model size: 4.74 units
+Model edge: +8.56% | Confidence: High
+
+WAS @ DET: Over 218.5 at -105
+Odds: -108 -> -105
+Book: BetMGM -> FanDuel
+Book to check: FanDuel | Model size: 2.77 units
+Model edge: +4.57% | Confidence: Low
+
+Regular Season | Nov 09, 2026 | 6:16 PM EST
+```
+
+## NBA Picks: 2 updated
+*2026-11-09 23:19 UTC · id `pj2boqnxkzl7`*
+
+```
+Updated picks (2):
+CLE @ CHA: Over 215.5 at -100
+Size: 4.74 units -> 4.44 units
+Edge: +8.56% -> +7.85%
+Confidence: High -> Medium
+Book to check: BetMGM | Model size: 4.44 units
+Model edge: +7.85% | Confidence: Medium
+
+WAS @ DET: Over 218.5 at -105
+Size: 2.77 units -> 2.66 units
+Edge: +4.57% -> +4.34%
+Book to check: FanDuel | Model size: 2.66 units
+Model edge: +4.34% | Confidence: Low
+
+Regular Season | Nov 09, 2026 | 6:19 PM EST
 ```
