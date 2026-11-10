@@ -1,14 +1,15 @@
 """Check Berk's picks against real sportsbook odds at the time they're archived.
 
 For each pick in a new message (matchup, side, line, price, book), this looks
-up what books were actually offering right then:
+up what books were actually offering right then, from two free, keyless feeds:
 
-- DraftKings, via ESPN's free odds feed. Always on. DraftKings is rarely the
-  book Berk names, so this is a market check: does the line exist, and at
-  roughly that price?
-- The book Berk named (BetMGM, FanDuel, Pinnacle, ...), via The Odds API, but
-  only if an ODDS_API_KEY repo secret is set. The free plan is 500 credits a
-  month; each check costs 2, so calls are rationed (see odds_api_allowed).
+- Action Network's public odds feed: BetMGM, FanDuel, DraftKings, Caesars,
+  theScore Bet (formerly ESPN BET), Fanatics, BetRivers and bet365. Prices
+  are for one state per book (NJ, NY or IL) and can differ slightly elsewhere.
+- Pinnacle's public guest feed, main and alternate lines.
+
+The book Berk named is checked first (when a feed covers it); every other book
+is recorded too, as a check on whether the line existed in the market at all.
 
 Checks run when the archive job sees the message, usually 0-15 minutes after
 the alert, so each record says how long after the alert it was taken. A
@@ -17,34 +18,33 @@ mismatch can mean the line moved in that time, not that it never existed.
 
 import datetime
 import json
-import os
 import re
-import urllib.parse
 import urllib.request
 
-ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={date}"
-ESPN_ODDS = "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/events/{id}/competitions/{id}/odds"
-ODDS_API = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds"
+ACTION_NETWORK = "https://api.actionnetwork.com/web/v2/scoreboard/nba?bookIds={ids}&date={date}&periods=event"
+PINNACLE_MATCHUPS = "https://guest.api.arcadia.pinnacle.com/0.1/leagues/487/matchups"
+PINNACLE_MARKETS = "https://guest.api.arcadia.pinnacle.com/0.1/leagues/487/markets/straight"
 
-# Berk's abbreviations -> ESPN's.
-TEAM_ALIASES = {"WAS": "WSH", "GSW": "GS", "NOP": "NO", "NYK": "NY", "SAS": "SA", "UTA": "UTAH", "PHO": "PHX", "BRK": "BKN"}
-
-# Book names as they appear in alerts -> The Odds API bookmaker keys.
-ODDS_API_BOOKS = {
-    "betmgm": "betmgm",
-    "fanduel": "fanduel",
-    "draftkings": "draftkings",
-    "pinnacle": "pinnacle",
-    "espn bet": "espnbet",
-    "caesars": "williamhill_us",
-    "betrivers": "betrivers",
-    "fanatics": "fanatics",
+# Action Network book ids -> display names.
+AN_BOOKS = {
+    75: "BetMGM",
+    69: "FanDuel",
+    68: "DraftKings",
+    1005: "Caesars",
+    4601: "theScore Bet",
+    2821: "Fanatics",
+    71: "BetRivers",
+    79: "bet365",
 }
 
-# Keep this many Odds API credits in reserve, and between routine calls wait
-# at least this long (a run with a brand-new pick always gets a call).
-ODDS_API_RESERVE = 25
-ODDS_API_MIN_GAP_SECONDS = 30 * 60
+# Book names as they appear in alerts -> the name used above.
+BOOK_ALIASES = {"espn bet": "theScore Bet", "william hill": "Caesars"}
+
+# Different feeds spell a few teams differently; normalize to Berk's style.
+TEAM_ALIASES = {"WSH": "WAS", "GS": "GSW", "NO": "NOP", "NY": "NYK", "SA": "SAS", "UTAH": "UTA", "PHO": "PHX", "BRK": "BKN"}
+
+# The feed occasionally has junk (e.g. a full-game total of 7.5).
+MIN_NBA_TOTAL = 150
 
 PICK_RE = re.compile(r"^(?:([A-Z]{2,4}) @ ([A-Z]{2,4}): )?(.+?) at ([+-]\d+)$")
 BOOK_RE = re.compile(r"Book to check: ([^|]+?)\s*\|")
@@ -53,9 +53,17 @@ ET = datetime.timezone(datetime.timedelta(hours=-5))
 
 
 def get_json(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "berko-nba-ntfy-archive"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (berko-nba-ntfy-archive)"})
     with urllib.request.urlopen(req, timeout=30) as res:
-        return json.loads(res.read().decode("utf-8")), res.headers
+        return json.loads(res.read().decode("utf-8"))
+
+
+def team(abbr):
+    return TEAM_ALIASES.get(abbr, abbr)
+
+
+def book_name(name):
+    return BOOK_ALIASES.get(name.lower(), name)
 
 
 def parse_picks(msg):
@@ -87,17 +95,17 @@ def parse_picks(msg):
     return picks
 
 
-def describe_market(selection, away, home):
+def describe_market(selection):
     """'Over 215.5' -> ('total', 'over', 215.5); 'IND +4.5' -> ('spread', 'IND', 4.5); 'IND ML' -> ('ml', 'IND', None)."""
     m = re.match(r"^(Over|Under) (\d+(?:\.\d)?)$", selection)
     if m:
         return "total", m.group(1).lower(), float(m.group(2))
     m = re.match(r"^([A-Z]{2,4}) ([+-]\d+(?:\.\d)?)$", selection)
     if m:
-        return "spread", m.group(1), float(m.group(2))
+        return "spread", team(m.group(1)), float(m.group(2))
     m = re.match(r"^([A-Z]{2,4}) (?:ML|Moneyline)$", selection)
     if m:
-        return "ml", m.group(1), None
+        return "ml", team(m.group(1)), None
     return None, None, None
 
 
@@ -105,7 +113,7 @@ def implied(american):
     return 100 / (american + 100) if american > 0 else -american / (-american + 100)
 
 
-def verdict(claim_line, claim_price, found_line, found_price, same_book):
+def verdict(claim_line, claim_price, found_line, found_price):
     """Compare the claimed line/price to what a book actually had."""
     if found_price is None:
         return "not offered"
@@ -113,162 +121,165 @@ def verdict(claim_line, claim_price, found_line, found_price, same_book):
         return "different line"
     gap = implied(found_price) - implied(claim_price)  # > 0 means the book's price was worse
     if gap <= 0.005:
-        return "confirmed" if same_book else "line matches"
+        return "same line and odds"
     if gap <= 0.02:
-        return "close (price moved slightly)"
-    return "price off"
+        return "same line, odds slightly worse"
+    return "same line, odds noticeably worse"
 
 
-def find_espn_event(away, home, when):
-    away, home = TEAM_ALIASES.get(away, away), TEAM_ALIASES.get(home, home)
+def pick_outcome(options, line):
+    """From one side's offered (line, price, is_alt) options, take the claimed line if offered, else the main line."""
+    exact = [o for o in options if line is not None and o[0] == line]
+    main = [o for o in options if not o[2]]
+    return (exact or main or [None])[0]
+
+
+# ---- Action Network ----
+
+def an_game(away, home, when):
     date = datetime.datetime.fromtimestamp(when, ET).strftime("%Y%m%d")
-    data, _ = get_json(ESPN_SCOREBOARD.format(date=date))
-    for e in data.get("events", []):
-        teams = {t["homeAway"]: t for t in e["competitions"][0]["competitors"]}
-        if teams["away"]["team"]["abbreviation"] == away and teams["home"]["team"]["abbreviation"] == home:
-            return e, teams
+    data = get_json(ACTION_NETWORK.format(ids=",".join(map(str, AN_BOOKS)), date=date))
+    for g in data.get("games", []):
+        abbr = {t["id"]: team(t["abbr"]) for t in g["teams"]}
+        if abbr.get(g["away_team_id"]) == team(away) and abbr.get(g["home_team_id"]) == team(home):
+            return g, abbr
     return None, None
 
 
-def check_draftkings(pick, kind, side, line, event, teams):
-    data, _ = get_json(ESPN_ODDS.format(id=event["id"]))
-    o = next((x for x in data.get("items", []) if x.get("provider", {}).get("name") == "DraftKings"), None)
-    if not o:
+def an_lines(game, abbr, kind, side, line):
+    """{book name: (line, price, is_alt)} for the claimed side, from every Action Network book."""
+    found = {}
+    key = {"total": "total", "spread": "spread", "ml": "moneyline"}[kind]
+    for book_id, markets in (game.get("markets") or {}).items():
+        name = AN_BOOKS.get(int(book_id))
+        if not name:
+            continue
+        options = []
+        for o in markets.get("event", {}).get(key, []):
+            if o.get("is_live"):
+                continue
+            if kind == "total":
+                if o["side"] != side or (o.get("value") or 0) < MIN_NBA_TOTAL:
+                    continue
+            else:
+                team_id = game["away_team_id"] if o["side"] == "away" else game["home_team_id"]
+                if abbr.get(team_id) != side:
+                    continue
+            options.append((None if kind == "ml" else o.get("value"), int(o["odds"]), bool(o.get("is_alt_market"))))
+        chosen = pick_outcome(options, line)
+        if chosen:
+            found[name] = chosen
+    return found
+
+
+# ---- Pinnacle ----
+
+def pinnacle_line(game, abbr, kind, side, line):
+    """(line, price, is_alt) for the claimed side at Pinnacle, or None."""
+    names = {t["id"]: t["full_name"] for t in game["teams"]}
+    away_name, home_name = names[game["away_team_id"]], names[game["home_team_id"]]
+    matchups = get_json(PINNACLE_MATCHUPS)
+
+    def nickname(full):
+        return full.split()[-1]
+
+    matchup = next(
+        (
+            m for m in matchups
+            if m.get("type") == "matchup" and not m.get("parentId")
+            and {p["alignment"]: nickname(p["name"]) for p in m.get("participants", [])}
+            == {"away": nickname(away_name), "home": nickname(home_name)}
+        ),
+        None,
+    )
+    if not matchup or matchup.get("isLive"):
         return None
     if kind == "total":
-        found_line = o.get("overUnder")
-        found_price = o.get("overOdds" if side == "over" else "underOdds")
+        designation = side
     else:
-        team = TEAM_ALIASES.get(side, side)
-        is_away = teams["away"]["team"]["abbreviation"] == team
-        team_odds = o.get("awayTeamOdds" if is_away else "homeTeamOdds") or {}
-        if kind == "spread":
-            home_spread = o.get("spread")
-            found_line = None if home_spread is None else (-home_spread if is_away else home_spread)
-            found_price = team_odds.get("spreadOdds")
-        else:
-            found_line, found_price = None, team_odds.get("moneyLine")
-    found_price = int(found_price) if found_price is not None else None
-    return {
-        "source": "ESPN (DraftKings)",
-        "book": "DraftKings",
-        "line": found_line,
-        "price": found_price,
-        "verdict": verdict(line, pick["price"], found_line, found_price, pick["book"].lower() == "draftkings"),
-    }
-
-
-def fetch_odds_api(key):
-    params = urllib.parse.urlencode({
-        "apiKey": key,
-        "bookmakers": ",".join(ODDS_API_BOOKS.values()),
-        "markets": "spreads,totals",
-        "oddsFormat": "american",
-    })
-    data, headers = get_json(f"{ODDS_API}?{params}")
-    remaining = headers.get("x-requests-remaining")
-    return data, int(float(remaining)) if remaining is not None else None
-
-
-def check_odds_api(pick, kind, side, line, odds_data, teams):
-    book_key = ODDS_API_BOOKS.get(pick["book"].lower())
-    if not book_key or kind == "ml":
-        return None
-    away_name, home_name = teams["away"]["team"]["name"], teams["home"]["team"]["name"]
-    game = next((g for g in odds_data if g["away_team"].endswith(away_name) and g["home_team"].endswith(home_name)), None)
-    if not game:
-        return None
-    book = next((b for b in game.get("bookmakers", []) if b["key"] == book_key), None)
-    found_line = found_price = None
-    if book:
-        market = next((m for m in book["markets"] if m["key"] == ("totals" if kind == "total" else "spreads")), None)
-        if market:
-            if kind == "total":
-                want = side.capitalize()
-            else:
-                team = TEAM_ALIASES.get(side, side)
-                want = game["away_team"] if teams["away"]["team"]["abbreviation"] == team else game["home_team"]
-            outcome = next((o for o in market["outcomes"] if o["name"] == want), None)
-            if outcome:
-                found_line, found_price = outcome.get("point"), int(outcome["price"])
-    return {
-        "source": "The Odds API",
-        "book": pick["book"],
-        "line": found_line,
-        "price": found_price,
-        "verdict": verdict(line, pick["price"], found_line, found_price, True),
-    }
-
-
-def odds_api_allowed(state, has_new_pick, now):
-    if not os.environ.get("ODDS_API_KEY"):
-        return False
-    remaining = state.get("odds_api_remaining")
-    if remaining is not None and remaining < ODDS_API_RESERVE:
-        return False
-    return has_new_pick or now - state.get("odds_api_last_call", 0) >= ODDS_API_MIN_GAP_SECONDS
+        designation = "away" if abbr.get(game["away_team_id"]) == side else "home"
+    pin_type = {"total": "total", "spread": "spread", "ml": "moneyline"}[kind]
+    options = []
+    for m in get_json(PINNACLE_MARKETS):
+        if m.get("matchupId") != matchup["id"] or m.get("period") != 0 or m.get("type") != pin_type:
+            continue
+        for p in m.get("prices", []):
+            if p.get("designation") == designation:
+                options.append((p.get("points"), int(p["price"]), bool(m.get("isAlternate"))))
+    return pick_outcome(options, line)
 
 
 def verify_messages(messages, state):
     """Return one verification record per pick in these messages."""
     now = datetime.datetime.now(datetime.timezone.utc).timestamp()
-    jobs = [(m, p) for m in messages for p in parse_picks(m)]
-    if not jobs:
-        return []
-
-    odds_data = None
-    has_new_pick = any("New Pick" in m["title"] or "new" in m["title"].lower() for m, _ in jobs)
-    if odds_api_allowed(state, has_new_pick, now):
-        try:
-            odds_data, remaining = fetch_odds_api(os.environ["ODDS_API_KEY"])
-            state["odds_api_last_call"] = now
-            if remaining is not None:
-                state["odds_api_remaining"] = remaining
-        except Exception as err:  # never let an odds problem stop archiving
-            print(f"Odds API check failed: {err}")
-
     records = []
-    for msg, pick in jobs:
-        rec = {
-            "message_id": msg["id"],
-            "alert_time": msg["time"],
-            "checked_time": int(now),
-            "minutes_after_alert": round((now - msg["time"]) / 60, 1),
-            "pick": pick,
-            "checks": [],
-            "note": None,
-        }
-        kind, side, line = describe_market(pick["selection"], pick["away"], pick["home"])
-        try:
-            event, teams = find_espn_event(pick["away"], pick["home"], msg["time"])
-            if not kind:
-                rec["note"] = "couldn't read this kind of bet"
-            elif not event:
-                rec["note"] = "game not found on ESPN"
-            elif event["status"]["type"]["state"] != "pre":
-                rec["note"] = "game had already started when checked, so pregame odds were gone"
-            else:
-                for check in (
-                    check_draftkings(pick, kind, side, line, event, teams),
-                    check_odds_api(pick, kind, side, line, odds_data, teams) if odds_data else None,
-                ):
-                    if check:
-                        rec["checks"].append(check)
-                if not rec["checks"]:
-                    rec["note"] = "no odds available for this game"
-        except Exception as err:
-            rec["note"] = f"check failed: {err}"
-        records.append(rec)
+    for msg in messages:
+        for pick in parse_picks(msg):
+            rec = {
+                "message_id": msg["id"],
+                "alert_time": msg["time"],
+                "checked_time": int(now),
+                "minutes_after_alert": round((now - msg["time"]) / 60, 1),
+                "pick": pick,
+                "checks": [],
+                "note": None,
+            }
+            kind, side, line = describe_market(pick["selection"])
+            try:
+                game, abbr = an_game(pick["away"], pick["home"], msg["time"]) if kind else (None, None)
+                if not kind:
+                    rec["note"] = "couldn't read this kind of bet"
+                elif not game:
+                    rec["note"] = "game not found in the odds feed"
+                elif game.get("status") != "scheduled":
+                    rec["note"] = "game had already started when checked, so pregame odds were gone"
+                else:
+                    found = an_lines(game, abbr, kind, side, line)
+                    try:
+                        pin = pinnacle_line(game, abbr, kind, side, line)
+                        if pin:
+                            found["Pinnacle"] = pin
+                    except Exception as err:
+                        print(f"Pinnacle check failed: {err}")
+                    named = book_name(pick["book"])
+                    for name in sorted(found, key=lambda n: n != named):
+                        found_line, found_price, is_alt = found[name]
+                        rec["checks"].append({
+                            "book": name,
+                            "named_book": name == named,
+                            "line": found_line,
+                            "price": found_price,
+                            "alt_line": is_alt,
+                            "verdict": verdict(line, pick["price"], found_line, found_price),
+                        })
+                    if not rec["checks"]:
+                        rec["note"] = "no odds available for this game"
+                    elif not any(c["named_book"] for c in rec["checks"]):
+                        rec["note"] = f"no free odds feed covers {pick['book']}; other books shown"
+            except Exception as err:
+                rec["note"] = f"check failed: {err}"
+            records.append(rec)
     return records
+
+
+def fmt_found(check):
+    if check["price"] is None:
+        return "not offered"
+    line = "" if check["line"] is None else f"{check['line']:g} "
+    alt = " (alt line)" if check.get("alt_line") else ""
+    return f"{line}{check['price']:+d}{alt}"
 
 
 def summarize(rec):
     p = rec["pick"]
     claim = f"{p['away']} @ {p['home']} {p['selection']} {p['price']:+d} ({p['book']})"
-    if rec["note"]:
+    if not rec["checks"]:
         return f"{claim}: not checked, {rec['note']}"
-    parts = []
-    for c in rec["checks"]:
-        found = "not offered" if c["price"] is None else f"{c['line'] if c['line'] is not None else ''} {c['price']:+d}".strip()
-        parts.append(f"{c['book']} had {found} → {c['verdict']}")
+    named = [c for c in rec["checks"] if c.get("named_book")]
+    others = [c for c in rec["checks"] if not c.get("named_book")]
+    parts = [f"{c['book']} had {fmt_found(c)} → {c['verdict']}" for c in named]
+    if rec["note"]:
+        parts.append(rec["note"])
+    if others:
+        parts.append("elsewhere: " + ", ".join(f"{c['book']} {fmt_found(c)}" for c in others))
     return f"{claim}, checked {rec['minutes_after_alert']:g} min after alert: " + "; ".join(parts)
