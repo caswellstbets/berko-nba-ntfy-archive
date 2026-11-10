@@ -9,6 +9,8 @@ for about 12 hours, so this repo is the permanent record:
 - CHANGELOG.md: one entry per run that found something. It also flags any
   message that vanished from ntfy before its expiry time, which usually means
   it was deleted on purpose.
+- verifications.jsonl: for each pick, what real sportsbooks were offering
+  when it was archived (see verify.py). Also append-only.
 
 The git history of this repo is the audit trail: if a line were ever removed
 from notifications.jsonl, the commit that did it would show it.
@@ -19,12 +21,19 @@ import json
 import os
 import urllib.request
 
+from verify import summarize, verify_messages
+
 TOPIC = "berko-nba-20260414-172920"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JSONL = os.path.join(ROOT, "notifications.jsonl")
 README = os.path.join(ROOT, "README.md")
 CHANGELOG = os.path.join(ROOT, "CHANGELOG.md")
 STATE = os.path.join(ROOT, "state.json")
+VERIFICATIONS = os.path.join(ROOT, "verifications.jsonl")
+
+# Messages already archived before odds checks existed still get one check if
+# they're this recent (their game may not have started yet).
+BACKFILL_SECONDS = 3 * 3600
 
 # Don't flag a message as deleted if it was about to expire anyway.
 EXPIRY_MARGIN_SECONDS = 30 * 60
@@ -42,11 +51,17 @@ def fetch_ntfy():
     return [m for m in (json.loads(l) for l in lines if l.strip()) if m.get("event") == "message"]
 
 
-def load_jsonl():
-    if not os.path.exists(JSONL):
+def load_jsonl(path=JSONL):
+    if not os.path.exists(path):
         return []
-    with open(JSONL) as f:
+    with open(path) as f:
         return [json.loads(l) for l in f if l.strip()]
+
+
+def append_jsonl(path, rows):
+    with open(path, "a") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
 
 
 def load_state():
@@ -56,7 +71,7 @@ def load_state():
         return json.load(f)
 
 
-def write_readme(messages):
+def write_readme(messages, verifications):
     out = [
         "# berko-nba ntfy archive",
         "",
@@ -64,9 +79,21 @@ def write_readme(messages):
         "Raw messages are in `notifications.jsonl`; `CHANGELOG.md` lists what each check added or",
         "found missing, and the commit history shows any change ever made to the files.",
         "",
+        "**Odds checks:** when a pick is archived, the line is looked up at real sportsbooks",
+        "(`verifications.jsonl`). DraftKings comes from ESPN's free feed; the exact book named in the",
+        "alert is checked too when an Odds API key is set. Checks happen minutes after the alert, so",
+        "a mismatch can mean the line moved, not that it never existed.",
+        "",
     ]
+    checks = {}
+    for v in verifications:
+        checks.setdefault(v["message_id"], []).append(v)
     for m in messages:
         out += [f"## {m.get('title', '')}", f"*{utc(m['time'])} · id `{m['id']}`*", "", "```", m.get("message", ""), "```", ""]
+        for v in checks.get(m["id"], []):
+            out.append(f"- Odds check: {summarize(v)}")
+        if m["id"] in checks:
+            out.append("")
     with open(README, "w") as f:
         f.write("\n".join(out))
 
@@ -100,7 +127,13 @@ def main():
         and m.get("expires", 0) > now + EXPIRY_MARGIN_SECONDS
     ]
 
-    if not fresh and not missing:
+    verified_ids = {v["message_id"] for v in load_jsonl(VERIFICATIONS)}
+    to_verify = fresh + [
+        m for m in saved if m["id"] not in verified_ids and now - m["time"] < BACKFILL_SECONDS
+    ]
+    new_checks = verify_messages(to_verify, state) if to_verify else []
+
+    if not fresh and not missing and not new_checks:
         print("No changes.")
         return
 
@@ -115,12 +148,16 @@ def main():
         )
         state["flagged_missing"].append(m["id"])
 
+    for v in new_checks:
+        log.append(f"- Odds check `{v['message_id']}`: {summarize(v)}")
+
     if fresh:
-        with open(JSONL, "a") as f:
-            for m in fresh:
-                f.write(json.dumps(m, ensure_ascii=False, separators=(",", ":")) + "\n")
-        write_readme(saved + fresh)
-    if missing:
+        append_jsonl(JSONL, fresh)
+    if new_checks:
+        append_jsonl(VERIFICATIONS, new_checks)
+    if fresh or new_checks:
+        write_readme(saved + fresh, load_jsonl(VERIFICATIONS))
+    if missing or new_checks:
         with open(STATE, "w") as f:
             json.dump(state, f, indent=2)
             f.write("\n")

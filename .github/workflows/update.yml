@@ -21,6 +21,10 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Fetch new ntfy messages
+        env:
+          # Optional. Without it, picks are only checked against DraftKings
+          # (via ESPN); with it, the exact book named in each alert too.
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python3 scripts/update.py
 
       - name: Commit changes
@@ -28,6 +32,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add notifications.jsonl README.md CHANGELOG.md
+          [ -f verifications.jsonl ] && git add verifications.jsonl
           [ -f state.json ] && git add state.json
           if ! git diff --cached --quiet; then
             git commit -m "Archive new ntfy activity"
