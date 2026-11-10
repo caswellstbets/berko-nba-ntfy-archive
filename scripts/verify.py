@@ -283,3 +283,23 @@ def summarize(rec):
     if others:
         parts.append("elsewhere: " + ", ".join(f"{c['book']} {fmt_found(c)}" for c in others))
     return f"{claim}, checked {rec['minutes_after_alert']:g} min after alert: " + "; ".join(parts)
+
+
+if __name__ == "__main__":
+    # Feed health check (run from the Actions tab with "check_feeds"): verify a
+    # made-up pick on the next game that hasn't started, without saving anything.
+    now = datetime.datetime.now(datetime.timezone.utc)
+    for days in range(4):
+        date = (now + datetime.timedelta(days=days)).astimezone(ET).strftime("%Y%m%d")
+        games = get_json(ACTION_NETWORK.format(ids=",".join(map(str, AN_BOOKS)), date=date)).get("games", [])
+        game = next((g for g in games if g.get("status") == "scheduled"), None)
+        if game:
+            abbr = {t["id"]: t["abbr"] for t in game["teams"]}
+            away, home = abbr[game["away_team_id"]], abbr[game["home_team_id"]]
+            msg = {"id": "feed-check", "time": int(now.timestamp()), "title": f"NBA New Pick: {away} +0.5 at -110",
+                   "message": f"{away} @ {home}\nBook to check: BetMGM | Model size: 0 units"}
+            for rec in verify_messages([msg], {}):
+                print(summarize(rec))
+            break
+    else:
+        print("No upcoming games found in the next few days.")

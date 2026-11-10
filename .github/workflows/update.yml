@@ -5,7 +5,12 @@ on:
     # Every 10 minutes. GitHub often starts scheduled runs late, but ntfy keeps
     # messages ~12 hours, so there's plenty of slack to never miss one.
     - cron: '*/10 * * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      check_feeds:
+        description: "Only test the odds feeds on an upcoming game (saves nothing)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,10 +25,16 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: Test odds feeds
+        if: ${{ inputs.check_feeds }}
+        run: python3 scripts/verify.py
+
       - name: Fetch new ntfy messages
+        if: ${{ !inputs.check_feeds }}
         run: python3 scripts/update.py
 
       - name: Commit changes
+        if: ${{ !inputs.check_feeds }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -40,6 +51,7 @@ jobs:
       # empty commit every 30 days so this keeps running. Empty commits change
       # no files, so they don't clutter the changelog.
       - name: Keepalive
+        if: ${{ !inputs.check_feeds }}
         run: |
           last=$(git log -1 --format=%ct)
           if [ $(( $(date +%s) - last )) -gt $(( 30 * 24 * 3600 )) ]; then
