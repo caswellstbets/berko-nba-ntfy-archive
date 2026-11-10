@@ -4,10 +4,11 @@ Permanent, append-only record of the ntfy topic `berko-nba-20260414-172920`, che
 Raw messages are in `notifications.jsonl`; `CHANGELOG.md` lists what each check added or
 found missing, and the commit history shows any change ever made to the files.
 
-**Odds checks:** when a pick is archived, the line is looked up at real sportsbooks
-(`verifications.jsonl`). DraftKings comes from ESPN's free feed; the exact book named in the
-alert is checked too when an Odds API key is set. Checks happen minutes after the alert, so
-a mismatch can mean the line moved, not that it never existed.
+**Odds checks:** when a pick is archived, its line and odds are looked up at real sportsbooks
+(`verifications.jsonl`): BetMGM, FanDuel, DraftKings, Caesars, theScore Bet (formerly ESPN BET),
+Fanatics, BetRivers and bet365 via Action Network's public feed, plus Pinnacle's. The book named
+in the alert is checked first. Checks happen minutes after the alert, so a mismatch can mean the
+line moved, not that it never existed.
 
 ## PAPER MLB 2026-11-09: no edges
 *2026-11-09 14:30 UTC · id `pPOobhDdWn5x`*
@@ -210,7 +211,7 @@ WAS @ DET: Over 218.5 at -105
 Regular Season | Nov 09, 2026 | 6:31 PM EST
 ```
 
-- Odds check: IND @ DAL IND +4.5 -104 (BetMGM), checked 43.4 min after alert: DraftKings had 4.5 -105 → line matches
+- Odds check: IND @ DAL IND +4.5 -104 (BetMGM), checked 43.4 min after alert: elsewhere: DraftKings 4.5 -105
 - Odds check: CLE @ CHA Over 215.5 -107 (ESPN BET): not checked, game had already started when checked, so pregame odds were gone
 
 ## NBA Picks: 2 updated
@@ -237,7 +238,7 @@ Regular Season | Nov 09, 2026 | 6:37 PM EST
 ```
 
 - Odds check: CLE @ CHA Over 215.5 -105 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
-- Odds check: IND @ DAL IND +4.5 -104 (BetMGM), checked 37.5 min after alert: DraftKings had 4.5 -105 → line matches
+- Odds check: IND @ DAL IND +4.5 -104 (BetMGM), checked 37.5 min after alert: elsewhere: DraftKings 4.5 -105
 
 ## NBA Pick Removed: IND +4.5
 *2026-11-10 00:05 UTC · id `xo1VVGdkyFTp`*
@@ -251,3 +252,34 @@ No active picks in the games checked.
 
 Regular Season | Nov 09, 2026 | 7:05 PM EST
 ```
+
+## NBA [Price unverified] New Pick: IND +4.5 at +104
+*2026-11-10 00:36 UTC · id `MXl5uML8rscJ`*
+
+```
+IND @ DAL
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.30 units
+Market edge: +13.95 pp | Confidence: High
+Est. return at quoted odds: +$21.59 per $100
+
+Regular Season | Nov 09, 2026 | 7:36 PM EST
+```
+
+- Odds check: IND @ DAL IND +4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: IND +4.5 at +104
+*2026-11-10 00:45 UTC · id `yvAne8LM8ji7`*
+
+```
+IND @ DAL
+Market edge: +13.95 pp -> +13.73 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.30 units
+Market edge: +13.73 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.59
+
+Regular Season | Nov 09, 2026 | 7:45 PM EST
+```
+
+- Odds check: IND @ DAL IND +4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone

@@ -2,6 +2,13 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-10 04:41 UTC
+
+- Added `MXl5uML8rscJ` (2026-11-10 00:36 UTC): NBA [Price unverified] New Pick: IND +4.5 at +104
+- Added `yvAne8LM8ji7` (2026-11-10 00:45 UTC): NBA [Price unverified] Pick Updated: IND +4.5 at +104
+- Odds check `MXl5uML8rscJ`: IND @ DAL IND +4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `yvAne8LM8ji7`: IND @ DAL IND +4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-10 00:14 UTC
 
 - Added `ANWIMHGfM7VI` (2026-11-09 23:22 UTC): NBA Pick Updated: Over 218.5 at -108
