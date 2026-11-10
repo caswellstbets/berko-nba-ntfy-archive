@@ -1,7 +1,8 @@
-"""Check Berk's picks against real sportsbook odds at the time they're archived.
+"""Check Berk's new picks against real sportsbook odds when they're archived.
 
-For each pick in a new message (matchup, side, line, price, book), this looks
-up what books were actually offering right then:
+For each brand-new pick (matchup, side, line, price, book), this looks up what
+books were actually offering right then. Updates to existing picks aren't
+checked, only the first time a pick is posted. Sources:
 
 - DraftKings, via ESPN's free odds feed. Always on. DraftKings is rarely the
   book Berk names, so this is a market check: does the line exist, and at
@@ -59,16 +60,27 @@ def get_json(url):
 
 
 def parse_picks(msg):
-    """Pull every (away, home, side, price, book) out of one ntfy message."""
-    if "NBA" not in msg.get("title", ""):
+    """Pull every brand-new (away, home, side, price, book) out of one ntfy message.
+
+    Single-pick alerts are titled "NBA New Pick: ..."; multi-pick alerts list
+    picks under "New picks (n):" / "Updated picks (n):" headers. Only picks
+    under a "new" heading count.
+    """
+    title = msg.get("title", "")
+    if "NBA" not in title:
         return []
     picks = []
+    section = "new" if "New Pick" in title else None
     blocks = [b.split("\n") for b in re.split(r"\n\s*\n", msg.get("message", ""))]
     for i, lines in enumerate(blocks):
         lines = [l.strip() for l in lines if l.strip()]
+        if lines and re.match(r"^(New|Updated) picks \(\d+\):$", lines[0]):
+            section = "new" if lines[0].startswith("New") else "updated"
+        elif lines and lines[0].startswith("Other active picks"):
+            section = None
         book = next((m.group(1) for l in lines for m in [BOOK_RE.search(l)] if m), None)
-        if not lines or not book:
-            continue  # e.g. the "Other active picks" block, which isn't a fresh claim
+        if not lines or not book or section != "new":
+            continue
         away = home = selection = price = None
         if i == 0 and MATCHUP_RE.match(lines[0]):
             # Single-pick alert: matchup on line 1, the pick itself in the title.

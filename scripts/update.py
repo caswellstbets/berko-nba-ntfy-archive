@@ -79,7 +79,7 @@ def write_readme(messages, verifications):
         "Raw messages are in `notifications.jsonl`; `CHANGELOG.md` lists what each check added or",
         "found missing, and the commit history shows any change ever made to the files.",
         "",
-        "**Odds checks:** when a pick is archived, the line is looked up at real sportsbooks",
+        "**Odds checks:** when a new pick is archived, its line is looked up at real sportsbooks",
         "(`verifications.jsonl`). DraftKings comes from ESPN's free feed; the exact book named in the",
         "alert is checked too when an Odds API key is set. Checks happen minutes after the alert, so",
         "a mismatch can mean the line moved, not that it never existed.",
