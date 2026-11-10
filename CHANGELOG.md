@@ -2,6 +2,10 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-10 20:25 UTC
+
+- Added `dG1vOZaOxV0i` (2026-11-10 14:30 UTC): PAPER MLB 2026-11-10: no edges
+
 ## 2026-11-10 04:41 UTC
 
 - Added `MXl5uML8rscJ` (2026-11-10 00:36 UTC): NBA [Price unverified] New Pick: IND +4.5 at +104

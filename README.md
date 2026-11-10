@@ -283,3 +283,12 @@ Regular Season | Nov 09, 2026 | 7:45 PM EST
 ```
 
 - Odds check: IND @ DAL IND +4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-10: no edges
+*2026-11-10 14:30 UTC · id `dG1vOZaOxV0i`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
