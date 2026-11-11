@@ -1048,3 +1048,12 @@ Regular Season | Nov 10, 2026 | 10:59 PM EST
 ```
 
 - Odds check: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-11: no edges
+*2026-11-11 14:30 UTC · id `HJfWcep69nBb`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
