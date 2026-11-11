@@ -2,6 +2,55 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-11 07:10 UTC
+
+- Added `Zt6j6ARTpyCu` (2026-11-11 00:45 UTC): NBA [Price unverified] Pick Updated: UTA +6.5 at -104
+- Added `UAkgarvGGrld` (2026-11-11 00:48 UTC): NBA [Price unverified] Pick Updated: UTA +6.5 at -104
+- Added `iWjA4VLy7MqY` (2026-11-11 00:57 UTC): NBA [Price unverified] Pick Updated: PHI ML at +110
+- Added `EYxCWrq8ko4Y` (2026-11-11 01:00 UTC): NBA [Price unverified] Pick Updated: UTA ML at +370
+- Added `DsIoZbeTsQ8y` (2026-11-11 01:03 UTC): NBA Picks: 2 removed
+- Added `0i99ET7MVtFf` (2026-11-11 01:32 UTC): NBA [Price unverified] New Pick: SAC +5.5 at -100
+- Added `AwgWJ0eweTvk` (2026-11-11 01:38 UTC): NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+- Added `SRwweGbrMhr2` (2026-11-11 02:32 UTC): NBA [Price unverified] Picks: 2 new
+- Added `p6RQgLZz6w5n` (2026-11-11 02:41 UTC): NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+- Added `9DROEbYCNZsU` (2026-11-11 02:44 UTC): NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+- Added `cGgg1ICZKDZx` (2026-11-11 02:54 UTC): NBA [Price unverified] Pick Updated: SAC +5.5 at -104
+- Added `dnOypJy0cde5` (2026-11-11 02:59 UTC): NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+- Added `68q5NHdUL2JI` (2026-11-11 03:14 UTC): NBA [Price unverified] Pick Updated: POR ML at +112
+- Added `l2hjgkakqbv8` (2026-11-11 03:17 UTC): NBA [Price unverified] Pick Updated: POR ML at +112
+- Added `8OxK56hxC1Nz` (2026-11-11 03:20 UTC): NBA [Price unverified] Pick Updated: POR ML at +108
+- Added `xKFP1mRVBDol` (2026-11-11 03:24 UTC): NBA [Price unverified] Pick Updated: POR ML at +109
+- Added `UUIDSBFGWmll` (2026-11-11 03:26 UTC): NBA [Price unverified] Pick Updated: POR ML at +108
+- Added `w7IfjPxwTZ3x` (2026-11-11 03:35 UTC): NBA [Price unverified] Pick Updated: POR +1.5 at -104
+- Added `RMUy6QFGcxVI` (2026-11-11 03:38 UTC): NBA [Price unverified] Pick Updated: POR +1.5 at -104
+- Added `jL5peKhBBGiI` (2026-11-11 03:41 UTC): NBA [Price unverified] Pick Updated: POR ML at +106
+- Added `cpByyDz6lAei` (2026-11-11 03:54 UTC): NBA [Price unverified] Pick Updated: POR ML at +106
+- Added `27XubscJN2FB` (2026-11-11 03:56 UTC): NBA [Price unverified] Pick Updated: POR +1.5 at -104
+- Added `uEHPXyLrJf8z` (2026-11-11 03:59 UTC): NBA [Price unverified] Pick Updated: POR +1.5 at -104
+- Odds check `Zt6j6ARTpyCu`: MIA @ UTA UTA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `UAkgarvGGrld`: MIA @ UTA UTA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `iWjA4VLy7MqY`: BOS @ PHI PHI ML +110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `EYxCWrq8ko4Y`: MIA @ UTA UTA ML +370 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `0i99ET7MVtFf`: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `AwgWJ0eweTvk`: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `SRwweGbrMhr2`: OKC @ POR POR ML +112 (Fanatics): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `SRwweGbrMhr2`: OKC @ POR POR +1.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `p6RQgLZz6w5n`: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `9DROEbYCNZsU`: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `cGgg1ICZKDZx`: ORL @ SAC SAC +5.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `dnOypJy0cde5`: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `68q5NHdUL2JI`: OKC @ POR POR ML +112 (ESPN BET): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `l2hjgkakqbv8`: OKC @ POR POR ML +112 (Fanatics): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `8OxK56hxC1Nz`: OKC @ POR POR ML +108 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `xKFP1mRVBDol`: OKC @ POR POR ML +109 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `UUIDSBFGWmll`: OKC @ POR POR ML +108 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `w7IfjPxwTZ3x`: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `RMUy6QFGcxVI`: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `jL5peKhBBGiI`: OKC @ POR POR ML +106 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `cpByyDz6lAei`: OKC @ POR POR ML +106 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `27XubscJN2FB`: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `uEHPXyLrJf8z`: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-11 00:44 UTC
 
 - Added `jOlDHeqWJGEx` (2026-11-10 23:33 UTC): NBA [Price unverified] Picks: 2 new

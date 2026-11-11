@@ -589,3 +589,462 @@ Regular Season | Nov 10, 2026 | 7:43 PM EST
 
 - Odds check: MIA @ UTA UTA ML +370 (DraftKings), checked 0.8 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
 - Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 0.8 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+
+## NBA [Price unverified] Pick Updated: UTA +6.5 at -104
+*2026-11-11 00:45 UTC · id `Zt6j6ARTpyCu`*
+
+```
+MIA @ UTA
+Market edge: +14.80 pp -> +14.79 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.79 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (3):
+MIA @ UTA: UTA ML at +370 (price unverified)
+BOS @ PHI: PHI ML at +110 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:45 PM EST
+```
+
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: UTA +6.5 at -104
+*2026-11-11 00:48 UTC · id `UAkgarvGGrld`*
+
+```
+MIA @ UTA
+Market edge: +14.79 pp -> +14.33 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.33 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (3):
+MIA @ UTA: UTA ML at +370 (price unverified)
+BOS @ PHI: PHI ML at +110 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:48 PM EST
+```
+
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: PHI ML at +110
+*2026-11-11 00:57 UTC · id `iWjA4VLy7MqY`*
+
+```
+BOS @ PHI
+Market edge: +13.63 pp -> +14.13 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +14.13 pp | Confidence: High
+Estimated profit per $100 wagered: +$33.73
+
+Other active picks in the games checked (3):
+MIA @ UTA: UTA ML at +370 (price unverified)
+MIA @ UTA: UTA +6.5 at -104 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:57 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: UTA ML at +370
+*2026-11-11 01:00 UTC · id `EYxCWrq8ko4Y`*
+
+```
+MIA @ UTA
+Market edge: +16.58 pp -> +19.09 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 5.00 units
+Market edge: +19.09 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$133.19
+
+Other active picks in the games checked (1):
+MIA @ UTA: UTA +6.5 at -104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 8:00 PM EST
+```
+
+- Odds check: MIA @ UTA UTA ML +370 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA Picks: 2 removed
+*2026-11-11 01:03 UTC · id `DsIoZbeTsQ8y`*
+
+```
+Removed picks (2):
+MIA @ UTA: UTA ML
+No longer recommended.
+
+MIA @ UTA: UTA +6.5
+No longer recommended.
+Any bets already placed are unaffected.
+
+No active picks in the games checked.
+
+Regular Season | Nov 10, 2026 | 8:03 PM EST
+```
+
+## NBA [Price unverified] New Pick: SAC +5.5 at -100
+*2026-11-11 01:32 UTC · id `0i99ET7MVtFf`*
+
+```
+ORL @ SAC
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.97 units
+Market edge: +7.03 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.10
+
+Regular Season | Nov 10, 2026 | 8:32 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+*2026-11-11 01:38 UTC · id `AwgWJ0eweTvk`*
+
+```
+ORL @ SAC
+Size: 3.97 units -> 3.77 units
+Market edge: +7.03 pp -> +6.56 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.77 units
+Market edge: +6.56 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.10
+
+Regular Season | Nov 10, 2026 | 8:38 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 new
+*2026-11-11 02:32 UTC · id `SRwweGbrMhr2`*
+
+```
+New picks (2):
+OKC @ POR: POR ML at +112
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fanatics | Model size: 5.00 units
+Market edge: +13.87 pp | Confidence: High
+Estimated profit per $100 wagered: +$33.41
+
+OKC @ POR: POR +1.5 at -100
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.98 pp | Confidence: High
+Estimated profit per $100 wagered: +$35.47
+
+Other active picks in the games checked (1):
+ORL @ SAC: SAC +5.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 9:32 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +112 (Fanatics): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: OKC @ POR POR +1.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+*2026-11-11 02:41 UTC · id `p6RQgLZz6w5n`*
+
+```
+ORL @ SAC
+Size: 3.77 units -> 3.87 units
+Market edge: +6.56 pp -> +6.79 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.87 units
+Market edge: +6.79 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.10
+
+Other active picks in the games checked (2):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+OKC @ POR: POR ML at +112 (price unverified)
+
+Regular Season | Nov 10, 2026 | 9:41 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+*2026-11-11 02:44 UTC · id `9DROEbYCNZsU`*
+
+```
+ORL @ SAC
+Size: 3.87 units -> 3.77 units
+Market edge: +6.79 pp -> +6.56 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.77 units
+Market edge: +6.56 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.10
+
+Other active picks in the games checked (2):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+OKC @ POR: POR ML at +112 (price unverified)
+
+Regular Season | Nov 10, 2026 | 9:44 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: SAC +5.5 at -104
+*2026-11-11 02:54 UTC · id `cGgg1ICZKDZx`*
+
+```
+ORL @ SAC
+Odds: -100 -> -104
+Estimated profit per $100 wagered: +$19.10 -> +$16.81
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.77 units
+Market edge: +6.56 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$16.81
+
+Other active picks in the games checked (2):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+OKC @ POR: POR ML at +112 (price unverified)
+
+Regular Season | Nov 10, 2026 | 9:54 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: SAC +5.5 at -100
+*2026-11-11 02:59 UTC · id `dnOypJy0cde5`*
+
+```
+ORL @ SAC
+Odds: -104 -> -100
+Estimated profit per $100 wagered: +$16.81 -> +$19.10
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.77 units
+Market edge: +6.56 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.10
+
+Other active picks in the games checked (2):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+OKC @ POR: POR ML at +112 (price unverified)
+
+Regular Season | Nov 10, 2026 | 9:59 PM EST
+```
+
+- Odds check: ORL @ SAC SAC +5.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +112
+*2026-11-11 03:14 UTC · id `68q5NHdUL2JI`*
+
+```
+OKC @ POR
+Book: Fanatics -> ESPN BET
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: ESPN BET | Model size: 5.00 units
+Market edge: +13.87 pp | Confidence: High
+Estimated profit per $100 wagered: +$33.41
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:14 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +112 (ESPN BET): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +112
+*2026-11-11 03:17 UTC · id `l2hjgkakqbv8`*
+
+```
+OKC @ POR
+Book: ESPN BET -> Fanatics
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fanatics | Model size: 5.00 units
+Market edge: +13.87 pp | Confidence: High
+Estimated profit per $100 wagered: +$33.41
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:17 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +112 (Fanatics): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +108
+*2026-11-11 03:20 UTC · id `8OxK56hxC1Nz`*
+
+```
+OKC @ POR
+Odds: +112 -> +108
+Book: Fanatics -> Caesars
+Market edge: +13.87 pp -> +13.62 pp
+Estimated profit per $100 wagered: +$33.41 -> +$30.90
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.62 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.90
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:20 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +108 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +109
+*2026-11-11 03:24 UTC · id `xKFP1mRVBDol`*
+
+```
+OKC @ POR
+Odds: +108 -> +109
+Book: Caesars -> FanDuel
+Estimated profit per $100 wagered: +$30.90 -> +$31.53
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +13.62 pp | Confidence: High
+Estimated profit per $100 wagered: +$31.53
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:24 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +109 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +108
+*2026-11-11 03:26 UTC · id `UUIDSBFGWmll`*
+
+```
+OKC @ POR
+Odds: +109 -> +108
+Book: FanDuel -> Caesars
+Estimated profit per $100 wagered: +$31.53 -> +$30.90
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.62 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.90
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -100 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:26 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +108 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR +1.5 at -104
+*2026-11-11 03:35 UTC · id `w7IfjPxwTZ3x`*
+
+```
+OKC @ POR
+Odds: -100 -> -104
+Estimated profit per $100 wagered: +$35.47 -> +$32.87
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.98 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.87
+
+Other active picks in the games checked (1):
+OKC @ POR: POR ML at +108 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:35 PM EST
+```
+
+- Odds check: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR +1.5 at -104
+*2026-11-11 03:38 UTC · id `RMUy6QFGcxVI`*
+
+```
+OKC @ POR
+Market edge: +14.98 pp -> +14.74 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.74 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.87
+
+Other active picks in the games checked (1):
+OKC @ POR: POR ML at +108 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:38 PM EST
+```
+
+- Odds check: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +106
+*2026-11-11 03:41 UTC · id `jL5peKhBBGiI`*
+
+```
+OKC @ POR
+Odds: +108 -> +106
+Estimated profit per $100 wagered: +$30.90 -> +$29.64
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.62 pp | Confidence: High
+Estimated profit per $100 wagered: +$29.64
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:41 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +106 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR ML at +106
+*2026-11-11 03:54 UTC · id `cpByyDz6lAei`*
+
+```
+OKC @ POR
+Market edge: +13.62 pp -> +12.37 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +12.37 pp | Confidence: High
+Estimated profit per $100 wagered: +$29.64
+
+Other active picks in the games checked (1):
+OKC @ POR: POR +1.5 at -104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:54 PM EST
+```
+
+- Odds check: OKC @ POR POR ML +106 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR +1.5 at -104
+*2026-11-11 03:56 UTC · id `27XubscJN2FB`*
+
+```
+OKC @ POR
+Market edge: +14.74 pp -> +14.75 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.75 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.87
+
+Other active picks in the games checked (1):
+OKC @ POR: POR ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:56 PM EST
+```
+
+- Odds check: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: POR +1.5 at -104
+*2026-11-11 03:59 UTC · id `uEHPXyLrJf8z`*
+
+```
+OKC @ POR
+Market edge: +14.75 pp -> +13.83 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.83 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.87
+
+Other active picks in the games checked (1):
+OKC @ POR: POR ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 10:59 PM EST
+```
+
+- Odds check: OKC @ POR POR +1.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
