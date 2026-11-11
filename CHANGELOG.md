@@ -2,6 +2,41 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-11 00:44 UTC
+
+- Added `jOlDHeqWJGEx` (2026-11-10 23:33 UTC): NBA [Price unverified] Picks: 2 new
+- Added `nFQMAoCWG5If` (2026-11-10 23:39 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `LLDTtapUGzEs` (2026-11-10 23:43 UTC): NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+- Added `Ie3JLe2EIADH` (2026-11-10 23:51 UTC): NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+- Added `Qt9hU8ZM3pP0` (2026-11-10 23:57 UTC): NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+- Added `IInLFOlo98xb` (2026-11-11 00:00 UTC): NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+- Added `jpuZtb5hml3O` (2026-11-11 00:15 UTC): NBA [Price unverified] Pick Updated: PHI ML at +106
+- Added `nzInfJQ972sv` (2026-11-11 00:21 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `WeV2Q2GLuvmG` (2026-11-11 00:33 UTC): NBA [Price unverified] Picks: 2 new
+- Added `uOrwSvAi6daT` (2026-11-11 00:36 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `QaqxH4Kvh57L` (2026-11-11 00:39 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `eS54YhacImRA` (2026-11-11 00:43 UTC): NBA [Price unverified] Picks: 2 updated
+- Odds check `jOlDHeqWJGEx`: BOS @ PHI PHI ML +105 (FanDuel), checked 70.7 min after alert: FanDuel had +110 → same line and odds; elsewhere: DraftKings +105, BetRivers +100, BetMGM +100, bet365 +104, Caesars +100, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check `jOlDHeqWJGEx`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 70.7 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `nFQMAoCWG5If`: BOS @ PHI PHI ML +106 (Caesars), checked 64.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check `nFQMAoCWG5If`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 64.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `LLDTtapUGzEs`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 61 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `Ie3JLe2EIADH`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 52.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `Qt9hU8ZM3pP0`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 46.4 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `IInLFOlo98xb`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 43.7 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `jpuZtb5hml3O`: BOS @ PHI PHI ML +106 (Caesars), checked 28.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check `nzInfJQ972sv`: BOS @ PHI PHI ML +108 (Caesars), checked 22.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check `nzInfJQ972sv`: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 22.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+- Odds check `WeV2Q2GLuvmG`: MIA @ UTA UTA ML +370 (DraftKings), checked 10.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check `WeV2Q2GLuvmG`: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 10.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+- Odds check `uOrwSvAi6daT`: MIA @ UTA UTA ML +370 (DraftKings), checked 7.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check `uOrwSvAi6daT`: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 7.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+- Odds check `QaqxH4Kvh57L`: BOS @ PHI PHI ML +110 (Caesars), checked 4.6 min after alert: Caesars had +100 → same line, odds noticeably worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check `QaqxH4Kvh57L`: MIA @ UTA UTA ML +370 (DraftKings), checked 4.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check `QaqxH4Kvh57L`: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 4.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+- Odds check `eS54YhacImRA`: MIA @ UTA UTA ML +370 (DraftKings), checked 0.8 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check `eS54YhacImRA`: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 0.8 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+
 ## 2026-11-10 20:25 UTC
 
 - Added `dG1vOZaOxV0i` (2026-11-10 14:30 UTC): PAPER MLB 2026-11-10: no edges

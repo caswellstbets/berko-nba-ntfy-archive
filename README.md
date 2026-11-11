@@ -292,3 +292,300 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] Picks: 2 new
+*2026-11-10 23:33 UTC · id `jOlDHeqWJGEx`*
+
+```
+New picks (2):
+BOS @ PHI: PHI ML at +105
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +13.38 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.55
+
+BOS @ PHI: PHI +1.5 at +104
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.93 units
+Market edge: +8.79 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Regular Season | Nov 10, 2026 | 6:33 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +105 (FanDuel), checked 70.7 min after alert: FanDuel had +110 → same line and odds; elsewhere: DraftKings +105, BetRivers +100, BetMGM +100, bet365 +104, Caesars +100, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 70.7 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-10 23:39 UTC · id `nFQMAoCWG5If`*
+
+```
+Updated picks (2):
+BOS @ PHI: PHI ML at +106
+Odds: +105 -> +106
+Book: FanDuel -> Caesars
+Estimated profit per $100 wagered: +$30.55 -> +$31.18
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.38 pp | Confidence: High
+Estimated profit per $100 wagered: +$31.18
+
+BOS @ PHI: PHI +1.5 at +104
+Size: 4.93 units -> 5.00 units
+Market edge: +8.79 pp -> +9.02 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.02 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Regular Season | Nov 10, 2026 | 6:39 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +106 (Caesars), checked 64.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 64.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+*2026-11-10 23:43 UTC · id `LLDTtapUGzEs`*
+
+```
+BOS @ PHI
+Size: 5.00 units -> 4.93 units
+Market edge: +9.02 pp -> +8.79 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.93 units
+Market edge: +8.79 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 6:43 PM EST
+```
+
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 61 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+*2026-11-10 23:51 UTC · id `Ie3JLe2EIADH`*
+
+```
+BOS @ PHI
+Size: 4.93 units -> 5.00 units
+Market edge: +8.79 pp -> +9.02 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.02 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 6:51 PM EST
+```
+
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 52.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+*2026-11-10 23:57 UTC · id `Qt9hU8ZM3pP0`*
+
+```
+BOS @ PHI
+Market edge: +9.02 pp -> +9.26 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.26 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 6:57 PM EST
+```
+
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 46.4 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Pick Updated: PHI +1.5 at +104
+*2026-11-11 00:00 UTC · id `IInLFOlo98xb`*
+
+```
+BOS @ PHI
+Market edge: +9.26 pp -> +9.74 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.74 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI ML at +106 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:00 PM EST
+```
+
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 43.7 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Pick Updated: PHI ML at +106
+*2026-11-11 00:15 UTC · id `jpuZtb5hml3O`*
+
+```
+BOS @ PHI
+Market edge: +13.38 pp -> +13.12 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.12 pp | Confidence: High
+Estimated profit per $100 wagered: +$31.18
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:15 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +106 (Caesars), checked 28.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 00:21 UTC · id `nzInfJQ972sv`*
+
+```
+Updated picks (2):
+BOS @ PHI: PHI ML at +108
+Odds: +106 -> +108
+Estimated profit per $100 wagered: +$31.18 -> +$32.46
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.12 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.46
+
+BOS @ PHI: PHI +1.5 at +104
+Market edge: +9.74 pp -> +9.98 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.98 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.03
+
+Regular Season | Nov 10, 2026 | 7:21 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +108 (Caesars), checked 22.8 min after alert: Caesars had +100 → same line, odds slightly worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check: BOS @ PHI PHI +1.5 +104 (BetMGM), checked 22.8 min after alert: BetMGM had 1.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 1.5 -106, FanDuel 1.5 -100, BetRivers 1.5 -114, bet365 1.5 -104, Caesars 1.5 -105, Fanatics 1.5 -105, theScore Bet 2.5 -115, Pinnacle 1.5 -100 (alt line)
+
+## NBA [Price unverified] Picks: 2 new
+*2026-11-11 00:33 UTC · id `WeV2Q2GLuvmG`*
+
+```
+New picks (2):
+MIA @ UTA: UTA ML at +370
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 5.00 units
+Market edge: +17.32 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$133.19
+
+MIA @ UTA: UTA +6.5 at -104
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.79 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (2):
+BOS @ PHI: PHI ML at +108 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:33 PM EST
+```
+
+- Odds check: MIA @ UTA UTA ML +370 (DraftKings), checked 10.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 10.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 00:36 UTC · id `uOrwSvAi6daT`*
+
+```
+Updated picks (2):
+MIA @ UTA: UTA ML at +370
+Market edge: +17.32 pp -> +17.11 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 5.00 units
+Market edge: +17.11 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$133.19
+
+MIA @ UTA: UTA +6.5 at -104
+Market edge: +14.79 pp -> +14.80 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.80 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (2):
+BOS @ PHI: PHI ML at +108 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:36 PM EST
+```
+
+- Odds check: MIA @ UTA UTA ML +370 (DraftKings), checked 7.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 7.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-11 00:39 UTC · id `QaqxH4Kvh57L`*
+
+```
+Updated picks (3):
+BOS @ PHI: PHI ML at +110
+Odds: +108 -> +110
+Market edge: +13.12 pp -> +13.63 pp
+Estimated profit per $100 wagered: +$32.46 -> +$33.73
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +13.63 pp | Confidence: High
+Estimated profit per $100 wagered: +$33.73
+
+MIA @ UTA: UTA ML at +370
+Market edge: +17.11 pp -> +17.12 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 5.00 units
+Market edge: +17.12 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$133.19
+
+MIA @ UTA: UTA +6.5 at -104
+Market edge: +14.80 pp -> +14.10 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.10 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (1):
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:39 PM EST
+```
+
+- Odds check: BOS @ PHI PHI ML +110 (Caesars), checked 4.6 min after alert: Caesars had +100 → same line, odds noticeably worse; elsewhere: DraftKings +105, FanDuel +110, BetRivers +100, BetMGM +100, bet365 +104, Fanatics +105, theScore Bet +110, Pinnacle +110
+- Odds check: MIA @ UTA UTA ML +370 (DraftKings), checked 4.6 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 4.6 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 00:43 UTC · id `eS54YhacImRA`*
+
+```
+Updated picks (2):
+MIA @ UTA: UTA ML at +370
+Market edge: +17.12 pp -> +16.58 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 5.00 units
+Market edge: +16.58 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$133.19
+
+MIA @ UTA: UTA +6.5 at -104
+Market edge: +14.10 pp -> +14.80 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +14.80 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$32.96
+
+Other active picks in the games checked (2):
+BOS @ PHI: PHI ML at +110 (price unverified)
+BOS @ PHI: PHI +1.5 at +104 (price unverified)
+
+Regular Season | Nov 10, 2026 | 7:43 PM EST
+```
+
+- Odds check: MIA @ UTA UTA ML +370 (DraftKings), checked 0.8 min after alert: DraftKings had +205 → same line, odds noticeably worse; elsewhere: FanDuel +190, BetRivers +215, BetMGM +200, bet365 +200, Caesars +205, Fanatics +310, theScore Bet +210, Pinnacle +205
+- Odds check: MIA @ UTA UTA +6.5 -104 (BetMGM), checked 0.8 min after alert: BetMGM had 6.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -105, BetRivers 6.5 -108, bet365 6.5 -113, Caesars 6.5 -110, Fanatics 9 -110, theScore Bet 6.5 -115, Pinnacle 6.5 -110
