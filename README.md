@@ -1930,3 +1930,12 @@ Regular Season | Nov 11, 2026 | 7:59 PM EST
 ```
 
 - Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-12: no edges
+*2026-11-12 14:30 UTC · id `QdHbuRx9nw0c`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
