@@ -1939,3 +1939,220 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] New Pick: TOR +7.5 at -108
+*2026-11-12 22:32 UTC · id `eNfijO3Xijki`*
+
+```
+TOR @ PHI
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.41 units
+Market edge: +9.27 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 5:32 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 70.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 22:50 UTC · id `7n4gNnqVhT2h`*
+
+```
+TOR @ PHI
+Market edge: +9.27 pp -> +9.51 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.41 units
+Market edge: +9.51 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 5:50 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 52.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 22:56 UTC · id `4RNTGRi0IPPt`*
+
+```
+TOR @ PHI
+Size: 2.41 units -> 2.66 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.66 units
+Market edge: +9.51 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 5:56 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 46.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:02 UTC · id `HmBGf3T89XCE`*
+
+```
+TOR @ PHI
+Size: 2.66 units -> 2.53 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.53 units
+Market edge: +9.51 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:02 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 40.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:05 UTC · id `feGV9jdtZQmE`*
+
+```
+TOR @ PHI
+Size: 2.53 units -> 2.41 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.41 units
+Market edge: +9.51 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:05 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 37.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:08 UTC · id `KtS6dPD8tH6Q`*
+
+```
+TOR @ PHI
+Market edge: +9.51 pp -> +9.27 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.41 units
+Market edge: +9.27 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:08 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 34.5 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:11 UTC · id `r9GJMJCk3i4z`*
+
+```
+TOR @ PHI
+Market edge: +9.27 pp -> +9.51 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.41 units
+Market edge: +9.51 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:11 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 31.8 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:14 UTC · id `qYXcA6C6eysy`*
+
+```
+TOR @ PHI
+Size: 2.41 units -> 2.29 units
+Market edge: +9.51 pp -> +9.52 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.29 units
+Market edge: +9.52 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:14 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 29 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:17 UTC · id `TPwd1rSRUXur`*
+
+```
+TOR @ PHI
+Market edge: +9.52 pp -> +9.27 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.29 units
+Market edge: +9.27 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:17 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 25.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:24 UTC · id `BemyqHBIMS2d`*
+
+```
+TOR @ PHI
+Market edge: +9.27 pp -> +9.03 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.29 units
+Market edge: +9.03 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:24 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 18.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -102
+*2026-11-12 23:32 UTC · id `r3OnC3tK22vI`*
+
+```
+TOR @ PHI
+Odds: -108 -> -102
+Book: BetMGM -> FanDuel
+Market edge: +9.03 pp -> +9.27 pp
+Estimated profit per $100 wagered: +$10.21 -> +$13.33
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 2.29 units
+Market edge: +9.27 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$13.33
+
+Regular Season | Nov 12, 2026 | 6:32 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -102 (FanDuel), checked 10.9 min after alert: FanDuel had 7.5 -118 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -105
+*2026-11-12 23:35 UTC · id `vkzyZSrZhCj6`*
+
+```
+TOR @ PHI
+Odds: -102 -> -105
+Market edge: +9.27 pp -> +9.03 pp
+Estimated profit per $100 wagered: +$13.33 -> +$11.72
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 2.29 units
+Market edge: +9.03 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$11.72
+
+Regular Season | Nov 12, 2026 | 6:35 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -105 (FanDuel), checked 7.9 min after alert: FanDuel had 7.5 -118 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+*2026-11-12 23:38 UTC · id `3GKqHAcAazum`*
+
+```
+TOR @ PHI
+Odds: -105 -> -104
+Book: FanDuel -> Pinnacle
+Size: 2.29 units -> 2.66 units
+Market edge: +9.03 pp -> +9.02 pp
+Estimated profit per $100 wagered: +$11.72 -> +$12.25
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 2.66 units
+Market edge: +9.02 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$12.25
+
+Regular Season | Nov 12, 2026 | 6:38 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -104 (Pinnacle), checked 4.5 min after alert: Pinnacle had 7.5 -103 (alt line) → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100

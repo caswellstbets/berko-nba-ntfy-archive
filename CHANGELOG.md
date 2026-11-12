@@ -2,6 +2,35 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-12 23:43 UTC
+
+- Added `eNfijO3Xijki` (2026-11-12 22:32 UTC): NBA [Price unverified] New Pick: TOR +7.5 at -108
+- Added `7n4gNnqVhT2h` (2026-11-12 22:50 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `4RNTGRi0IPPt` (2026-11-12 22:56 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `HmBGf3T89XCE` (2026-11-12 23:02 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `feGV9jdtZQmE` (2026-11-12 23:05 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `KtS6dPD8tH6Q` (2026-11-12 23:08 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `r9GJMJCk3i4z` (2026-11-12 23:11 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `qYXcA6C6eysy` (2026-11-12 23:14 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `TPwd1rSRUXur` (2026-11-12 23:17 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `BemyqHBIMS2d` (2026-11-12 23:24 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `r3OnC3tK22vI` (2026-11-12 23:32 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -102
+- Added `vkzyZSrZhCj6` (2026-11-12 23:35 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -105
+- Added `3GKqHAcAazum` (2026-11-12 23:38 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+- Odds check `eNfijO3Xijki`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 70.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `7n4gNnqVhT2h`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 52.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `4RNTGRi0IPPt`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 46.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `HmBGf3T89XCE`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 40.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `feGV9jdtZQmE`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 37.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `KtS6dPD8tH6Q`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 34.5 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `r9GJMJCk3i4z`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 31.8 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `qYXcA6C6eysy`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 29 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `TPwd1rSRUXur`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 25.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `BemyqHBIMS2d`: TOR @ PHI TOR +7.5 -108 (BetMGM), checked 18.9 min after alert: BetMGM had 7.5 -105 → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `r3OnC3tK22vI`: TOR @ PHI TOR +7.5 -102 (FanDuel), checked 10.9 min after alert: FanDuel had 7.5 -118 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `vkzyZSrZhCj6`: TOR @ PHI TOR +7.5 -105 (FanDuel), checked 7.9 min after alert: FanDuel had 7.5 -118 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100, Pinnacle 7.5 -103 (alt line)
+- Odds check `3GKqHAcAazum`: TOR @ PHI TOR +7.5 -104 (Pinnacle), checked 4.5 min after alert: Pinnacle had 7.5 -103 (alt line) → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100
+
 ## 2026-11-12 18:20 UTC
 
 - Added `QdHbuRx9nw0c` (2026-11-12 14:30 UTC): PAPER MLB 2026-11-12: no edges
