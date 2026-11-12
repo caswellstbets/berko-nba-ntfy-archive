@@ -1057,3 +1057,876 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] Picks: 3 new
+*2026-11-11 22:32 UTC · id `lFPgHZ3fTUFd`*
+
+```
+New picks (3):
+WAS @ IND: IND -3.5 at +108
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.48 units
+Market edge: +4.28 pp | Confidence: Low
+Estimated profit per $100 wagered: +$16.15
+
+BOS @ TOR: TOR +5.5 at -105
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +15.97 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$35.09
+
+CLE @ NYK: NYK -4.5 at -103
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 3.05 units
+Market edge: +5.04 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$16.60
+
+Regular Season | Nov 11, 2026 | 5:32 PM EST
+```
+
+- Odds check: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR TOR +5.5 -105 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ NYK NYK -4.5 -103 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 1 new, 1 updated
+*2026-11-11 22:35 UTC · id `JiI30DaHrwFr`*
+
+```
+New picks (1):
+BOS @ TOR: Over 216.5 at -100
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.19 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Updated picks (1):
+CLE @ NYK: NYK -4.5 at -105
+Odds: -103 -> -105
+Book: Pinnacle -> Fliff
+Estimated profit per $100 wagered: +$16.60 -> +$15.51
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 3.05 units
+Market edge: +5.04 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.51
+
+Other active picks in the games checked (2):
+BOS @ TOR: TOR +5.5 at -105 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:35 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-11 22:38 UTC · id `74jfGVfRD0TE`*
+
+```
+Updated picks (3):
+WAS @ IND: IND -3.5 at +108
+Size: 2.48 units -> 2.37 units
+Market edge: +4.28 pp -> +4.04 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.37 units
+Market edge: +4.04 pp | Confidence: Low
+Estimated profit per $100 wagered: +$16.15
+
+BOS @ TOR: TOR +5.5 at -105
+Market edge: +15.97 pp -> +15.74 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +15.74 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$35.09
+
+BOS @ TOR: Over 216.0 at -110
+Pick: Over 216.5 -> Over 216.0
+Odds: -100 -> -110
+Book: BetMGM -> Pinnacle
+Market edge: +10.19 pp -> +10.67 pp
+Estimated profit per $100 wagered: +$25.42 -> +$21.54
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.54
+
+Other active picks in the games checked (1):
+CLE @ NYK: NYK -4.5 at -105 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:38 PM EST
+```
+
+- Odds check: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR TOR +5.5 -105 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 22:41 UTC · id `Yf4G5pSkG0bn`*
+
+```
+Updated picks (2):
+BOS @ TOR: TOR +5.5 at -108
+Odds: -105 -> -108
+Book: Hard Rock Bet -> BetMGM
+Market edge: +15.74 pp -> +15.97 pp
+Estimated profit per $100 wagered: +$35.09 -> +$33.26
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.97 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+BOS @ TOR: Over 216.5 at -100
+Pick: Over 216.0 -> Over 216.5
+Odds: -110 -> -100
+Book: Pinnacle -> BetMGM
+Market edge: +10.67 pp -> +10.19 pp
+Estimated profit per $100 wagered: +$21.54 -> +$25.42
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.19 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Other active picks in the games checked (2):
+CLE @ NYK: NYK -4.5 at -105 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:41 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 22:44 UTC · id `987xbN9K8s3T`*
+
+```
+Updated picks (2):
+BOS @ TOR: Over 216.0 at -110
+Pick: Over 216.5 -> Over 216.0
+Odds: -100 -> -110
+Book: BetMGM -> Hard Rock Bet
+Market edge: +10.19 pp -> +10.67 pp
+Estimated profit per $100 wagered: +$25.42 -> +$21.54
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.54
+
+CLE @ NYK: NYK -4.5 at -105
+Size: 3.05 units -> 3.15 units
+Market edge: +5.04 pp -> +5.27 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 3.15 units
+Market edge: +5.27 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.51
+
+Other active picks in the games checked (2):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:44 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 216.5 at -100
+*2026-11-11 22:47 UTC · id `1S5Yk7Eynge9`*
+
+```
+BOS @ TOR
+Pick: Over 216.0 -> Over 216.5
+Odds: -110 -> -100
+Book: Hard Rock Bet -> BetMGM
+Market edge: +10.67 pp -> +10.19 pp
+Estimated profit per $100 wagered: +$21.54 -> +$25.42
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.19 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -105 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:47 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA Pick Removed: Over 216.5
+*2026-11-11 22:50 UTC · id `4QHqhQXk091y`*
+
+```
+BOS @ TOR
+No longer recommended.
+Any bets already placed are unaffected.
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -105 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:50 PM EST
+```
+
+## NBA [Price unverified] Picks: 1 new, 1 updated
+*2026-11-11 22:54 UTC · id `g2gjDAYE0REd`*
+
+```
+New picks (1):
+BOS @ TOR: Over 216.0 at -110
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.54
+
+Updated picks (1):
+BOS @ TOR: TOR +5.5 at -108
+Market edge: +15.97 pp -> +15.74 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.74 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+Other active picks in the games checked (2):
+CLE @ NYK: NYK -4.5 at -105 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:54 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: NYK -4.5 at -105
+*2026-11-11 22:56 UTC · id `WlsMfDEMEzTO`*
+
+```
+CLE @ NYK
+Size: 3.15 units -> 3.05 units
+Market edge: +5.27 pp -> +5.05 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 3.05 units
+Market edge: +5.05 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.51
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+BOS @ TOR: Over 216.0 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 5:56 PM EST
+```
+
+- Odds check: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: NYK -4.5 at -110
+*2026-11-11 23:05 UTC · id `Q3IYyuPMSapg`*
+
+```
+CLE @ NYK
+Odds: -105 -> -110
+Book: Fliff -> FanDuel
+Estimated profit per $100 wagered: +$15.51 -> +$12.95
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 3.05 units
+Market edge: +5.05 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$12.95
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+BOS @ TOR: Over 216.0 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:05 PM EST
+```
+
+- Odds check: CLE @ NYK NYK -4.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +5.5 at -108
+*2026-11-11 23:08 UTC · id `w2hHrwwSyfBL`*
+
+```
+BOS @ TOR
+Market edge: +15.74 pp -> +15.97 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.97 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+Other active picks in the games checked (3):
+BOS @ TOR: Over 216.0 at -110 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:08 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:11 UTC · id `6wj8KkVZ98om`*
+
+```
+Updated picks (2):
+WAS @ IND: IND -3.5 at +108
+Size: 2.37 units -> 2.48 units
+Market edge: +4.04 pp -> +4.28 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.48 units
+Market edge: +4.28 pp | Confidence: Low
+Estimated profit per $100 wagered: +$16.15
+
+BOS @ TOR: Over 216.5 at +104
+Pick: Over 216.0 -> Over 216.5
+Odds: -110 -> +104
+Book: Pinnacle -> BetMGM
+Estimated profit per $100 wagered: +$21.54 -> +$27.93
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$27.93
+
+Other active picks in the games checked (2):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:11 PM EST
+```
+
+- Odds check: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:14 UTC · id `4CDrQn8wq66I`*
+
+```
+Updated picks (2):
+BOS @ TOR: TOR +5.5 at -108
+Market edge: +15.97 pp -> +15.75 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.75 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+BOS @ TOR: Over 216.0 at -110
+Pick: Over 216.5 -> Over 216.0
+Odds: +104 -> -110
+Book: BetMGM -> Pinnacle
+Estimated profit per $100 wagered: +$27.93 -> +$21.54
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.54
+
+Other active picks in the games checked (2):
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:14 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 216.5 at -100
+*2026-11-11 23:17 UTC · id `eO6878X2EbRL`*
+
+```
+BOS @ TOR
+Pick: Over 216.0 -> Over 216.5
+Odds: -110 -> -100
+Book: Pinnacle -> BetMGM
+Market edge: +10.67 pp -> +10.19 pp
+Estimated profit per $100 wagered: +$21.54 -> +$25.42
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.19 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:17 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:20 UTC · id `H2dH8BubuXUo`*
+
+```
+Updated picks (2):
+BOS @ TOR: TOR +5.5 at -108
+Market edge: +15.75 pp -> +15.29 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.29 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+CLE @ NYK: NYK -4.5 at -110
+Book: FanDuel -> Pinnacle
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 3.05 units
+Market edge: +5.05 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$12.95
+
+Other active picks in the games checked (2):
+BOS @ TOR: Over 216.5 at -100 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:20 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ NYK NYK -4.5 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 216.5 at -100
+*2026-11-11 23:24 UTC · id `c7tolsT3175q`*
+
+```
+BOS @ TOR
+Market edge: +10.19 pp -> +10.67 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:24 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 216.5 at -100
+*2026-11-11 23:26 UTC · id `QkvL138ZCE8A`*
+
+```
+BOS @ TOR
+Market edge: +10.67 pp -> +10.19 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.19 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -108 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:26 PM EST
+```
+
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 1 new, 3 updated
+*2026-11-11 23:32 UTC · id `vO1itZiLeuUV`*
+
+```
+New picks (1):
+BKN @ NOP: Over 228.5 at +108
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.03 units
+Market edge: +5.16 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Updated picks (3):
+BOS @ TOR: TOR +5.5 at -108
+Market edge: +15.29 pp -> +15.07 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.07 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+BOS @ TOR: Over 216.5 at -100
+Market edge: +10.19 pp -> +9.72 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.72 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.42
+
+CLE @ NYK: NYK -4.5 at -110
+Book: Pinnacle -> FanDuel
+Size: 3.05 units -> 3.15 units
+Market edge: +5.05 pp -> +5.26 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 3.15 units
+Market edge: +5.26 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$12.95
+
+Other active picks in the games checked (1):
+WAS @ IND: IND -3.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:32 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ NYK NYK -4.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:35 UTC · id `8BufS6JYwQ0g`*
+
+```
+Updated picks (2):
+WAS @ IND: IND -3.5 at +104
+Odds: +108 -> +104
+Estimated profit per $100 wagered: +$16.15 -> +$13.92
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.48 units
+Market edge: +4.28 pp | Confidence: Low
+Estimated profit per $100 wagered: +$13.92
+
+BOS @ TOR: TOR +5.5 at -106
+Odds: -108 -> -106
+Book: BetMGM -> ESPN BET
+Estimated profit per $100 wagered: +$33.26 -> +$34.47
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: ESPN BET | Model size: 5.00 units
+Market edge: +15.07 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$34.47
+
+Other active picks in the games checked (3):
+BOS @ TOR: Over 216.5 at -100 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+BKN @ NOP: Over 228.5 at +108 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:35 PM EST
+```
+
+- Odds check: WAS @ IND IND -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR TOR +5.5 -106 (ESPN BET): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +5.5 at -108
+*2026-11-11 23:39 UTC · id `YTNK9DOiloAu`*
+
+```
+BOS @ TOR
+Odds: -106 -> -108
+Book: ESPN BET -> BetMGM
+Estimated profit per $100 wagered: +$34.47 -> +$33.26
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +15.07 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$33.26
+
+Other active picks in the games checked (4):
+BOS @ TOR: Over 216.5 at -100 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+BKN @ NOP: Over 228.5 at +108 (price unverified)
+... and 1 more
+
+Regular Season | Nov 11, 2026 | 6:39 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:41 UTC · id `qA0Vrg6ftTwB`*
+
+```
+Updated picks (2):
+BOS @ TOR: TOR +5.5 at -114
+Odds: -108 -> -114
+Book: BetMGM -> Caesars
+Estimated profit per $100 wagered: +$33.26 -> +$29.88
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 5.00 units
+Market edge: +15.07 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$29.88
+
+BOS @ TOR: Over 216.0 at -110
+Pick: Over 216.5 -> Over 216.0
+Odds: -100 -> -110
+Book: BetMGM -> Fliff
+Market edge: +9.72 pp -> +10.67 pp
+Estimated profit per $100 wagered: +$25.42 -> +$21.54
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 5.00 units
+Market edge: +10.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.54
+
+Other active picks in the games checked (3):
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+BKN @ NOP: Over 228.5 at +108 (price unverified)
+WAS @ IND: IND -3.5 at +104 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:41 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.5 -114 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BOS @ TOR Over 216.0 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA Pick Removed: Over 216.0
+*2026-11-11 23:44 UTC · id `GEzJ1oXdwZ2c`*
+
+```
+BOS @ TOR
+No longer recommended.
+Any bets already placed are unaffected.
+
+Other active picks in the games checked (4):
+BOS @ TOR: TOR +5.5 at -114 (price unverified)
+CLE @ NYK: NYK -4.5 at -110 (price unverified)
+BKN @ NOP: Over 228.5 at +108 (price unverified)
+... and 1 more
+
+Regular Season | Nov 11, 2026 | 6:44 PM EST
+```
+
+## NBA [Price unverified] Pick Updated: NYK -4.5 at -108
+*2026-11-11 23:47 UTC · id `Gv3t5KTAEmgO`*
+
+```
+CLE @ NYK
+Odds: -110 -> -108
+Book: FanDuel -> BetMGM
+Estimated profit per $100 wagered: +$12.95 -> +$13.95
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.15 units
+Market edge: +5.26 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$13.95
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.5 at -114 (price unverified)
+BKN @ NOP: Over 228.5 at +108 (price unverified)
+WAS @ IND: IND -3.5 at +104 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:47 PM EST
+```
+
+- Odds check: CLE @ NYK NYK -4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-11 23:56 UTC · id `YCs9ngsGfIV1`*
+
+```
+Updated picks (2):
+BOS @ TOR: TOR +5.0 at -110
+Pick: TOR +5.5 -> TOR +5.0
+Odds: -114 -> -110
+Book: Caesars -> Hard Rock Bet
+Market edge: +15.07 pp -> +15.05 pp
+Estimated profit per $100 wagered: +$29.88 -> +$29.90
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +15.05 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$29.90
+
+BKN @ NOP: Over 228.5 at +108
+Size: 3.03 units -> 3.24 units
+Market edge: +5.16 pp -> +5.63 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.24 units
+Market edge: +5.63 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Other active picks in the games checked (2):
+CLE @ NYK: NYK -4.5 at -108 (price unverified)
+WAS @ IND: IND -3.5 at +104 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:56 PM EST
+```
+
+- Odds check: BOS @ TOR TOR +5.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-11 23:59 UTC · id `DS2Jp6uh2Xp8`*
+
+```
+BKN @ NOP
+Size: 3.24 units -> 3.45 units
+Market edge: +5.63 pp -> +6.11 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.45 units
+Market edge: +6.11 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Other active picks in the games checked (3):
+BOS @ TOR: TOR +5.0 at -110 (price unverified)
+CLE @ NYK: NYK -4.5 at -108 (price unverified)
+WAS @ IND: IND -3.5 at +104 (price unverified)
+
+Regular Season | Nov 11, 2026 | 6:59 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:05 UTC · id `ENwkHgVkKlfo`*
+
+```
+BKN @ NOP
+Size: 3.45 units -> 3.03 units
+Market edge: +6.11 pp -> +5.15 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.03 units
+Market edge: +5.15 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:05 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:09 UTC · id `6R08wfWv1tA4`*
+
+```
+BKN @ NOP
+Size: 3.03 units -> 3.45 units
+Market edge: +5.15 pp -> +6.11 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.45 units
+Market edge: +6.11 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:09 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:24 UTC · id `6ImYzgL13A34`*
+
+```
+BKN @ NOP
+Size: 3.45 units -> 3.34 units
+Market edge: +6.11 pp -> +5.86 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.34 units
+Market edge: +5.86 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:24 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:29 UTC · id `Asjs0WLkzhnc`*
+
+```
+BKN @ NOP
+Size: 3.34 units -> 3.55 units
+Market edge: +5.86 pp -> +6.35 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.55 units
+Market edge: +6.35 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:29 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:32 UTC · id `E8BAwkkCUcS7`*
+
+```
+BKN @ NOP
+Size: 3.55 units -> 3.45 units
+Market edge: +6.35 pp -> +6.11 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.45 units
+Market edge: +6.11 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:32 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:39 UTC · id `naPPSdNKe7sd`*
+
+```
+BKN @ NOP
+Size: 3.45 units -> 3.14 units
+Market edge: +6.11 pp -> +5.39 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.14 units
+Market edge: +5.39 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:39 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:41 UTC · id `rHhdBFvy0pJP`*
+
+```
+BKN @ NOP
+Size: 3.14 units -> 3.03 units
+Market edge: +5.39 pp -> +5.16 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.03 units
+Market edge: +5.16 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:41 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:44 UTC · id `wzEMKR7g8clt`*
+
+```
+BKN @ NOP
+Size: 3.03 units -> 3.14 units
+Market edge: +5.16 pp -> +5.39 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.14 units
+Market edge: +5.39 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:44 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:47 UTC · id `KlOeGii043GD`*
+
+```
+BKN @ NOP
+Market edge: +5.39 pp -> +5.40 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.14 units
+Market edge: +5.40 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:47 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at +108
+*2026-11-12 00:59 UTC · id `LZniSzYfAVqy`*
+
+```
+BKN @ NOP
+Size: 3.14 units -> 3.03 units
+Market edge: +5.40 pp -> +5.17 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.03 units
+Market edge: +5.17 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$20.96
+
+Regular Season | Nov 11, 2026 | 7:59 PM EST
+```
+
+- Odds check: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone

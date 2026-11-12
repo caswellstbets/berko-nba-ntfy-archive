@@ -2,6 +2,94 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-12 02:39 UTC
+
+- Added `lFPgHZ3fTUFd` (2026-11-11 22:32 UTC): NBA [Price unverified] Picks: 3 new
+- Added `JiI30DaHrwFr` (2026-11-11 22:35 UTC): NBA [Price unverified] Picks: 1 new, 1 updated
+- Added `74jfGVfRD0TE` (2026-11-11 22:38 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `Yf4G5pSkG0bn` (2026-11-11 22:41 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `987xbN9K8s3T` (2026-11-11 22:44 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `1S5Yk7Eynge9` (2026-11-11 22:47 UTC): NBA [Price unverified] Pick Updated: Over 216.5 at -100
+- Added `4QHqhQXk091y` (2026-11-11 22:50 UTC): NBA Pick Removed: Over 216.5
+- Added `g2gjDAYE0REd` (2026-11-11 22:54 UTC): NBA [Price unverified] Picks: 1 new, 1 updated
+- Added `WlsMfDEMEzTO` (2026-11-11 22:56 UTC): NBA [Price unverified] Pick Updated: NYK -4.5 at -105
+- Added `Q3IYyuPMSapg` (2026-11-11 23:05 UTC): NBA [Price unverified] Pick Updated: NYK -4.5 at -110
+- Added `w2hHrwwSyfBL` (2026-11-11 23:08 UTC): NBA [Price unverified] Pick Updated: TOR +5.5 at -108
+- Added `6wj8KkVZ98om` (2026-11-11 23:11 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `4CDrQn8wq66I` (2026-11-11 23:14 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `eO6878X2EbRL` (2026-11-11 23:17 UTC): NBA [Price unverified] Pick Updated: Over 216.5 at -100
+- Added `H2dH8BubuXUo` (2026-11-11 23:20 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `c7tolsT3175q` (2026-11-11 23:24 UTC): NBA [Price unverified] Pick Updated: Over 216.5 at -100
+- Added `QkvL138ZCE8A` (2026-11-11 23:26 UTC): NBA [Price unverified] Pick Updated: Over 216.5 at -100
+- Added `vO1itZiLeuUV` (2026-11-11 23:32 UTC): NBA [Price unverified] Picks: 1 new, 3 updated
+- Added `8BufS6JYwQ0g` (2026-11-11 23:35 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `YTNK9DOiloAu` (2026-11-11 23:39 UTC): NBA [Price unverified] Pick Updated: TOR +5.5 at -108
+- Added `qA0Vrg6ftTwB` (2026-11-11 23:41 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `GEzJ1oXdwZ2c` (2026-11-11 23:44 UTC): NBA Pick Removed: Over 216.0
+- Added `Gv3t5KTAEmgO` (2026-11-11 23:47 UTC): NBA [Price unverified] Pick Updated: NYK -4.5 at -108
+- Added `YCs9ngsGfIV1` (2026-11-11 23:56 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `DS2Jp6uh2Xp8` (2026-11-11 23:59 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `ENwkHgVkKlfo` (2026-11-12 00:05 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `6R08wfWv1tA4` (2026-11-12 00:09 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `6ImYzgL13A34` (2026-11-12 00:24 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `Asjs0WLkzhnc` (2026-11-12 00:29 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `E8BAwkkCUcS7` (2026-11-12 00:32 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `naPPSdNKe7sd` (2026-11-12 00:39 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `rHhdBFvy0pJP` (2026-11-12 00:41 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `wzEMKR7g8clt` (2026-11-12 00:44 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `KlOeGii043GD` (2026-11-12 00:47 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Added `LZniSzYfAVqy` (2026-11-12 00:59 UTC): NBA [Price unverified] Pick Updated: Over 228.5 at +108
+- Odds check `lFPgHZ3fTUFd`: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `lFPgHZ3fTUFd`: BOS @ TOR TOR +5.5 -105 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `lFPgHZ3fTUFd`: CLE @ NYK NYK -4.5 -103 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `JiI30DaHrwFr`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `JiI30DaHrwFr`: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `74jfGVfRD0TE`: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `74jfGVfRD0TE`: BOS @ TOR TOR +5.5 -105 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `74jfGVfRD0TE`: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `Yf4G5pSkG0bn`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `Yf4G5pSkG0bn`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `987xbN9K8s3T`: BOS @ TOR Over 216.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `987xbN9K8s3T`: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `1S5Yk7Eynge9`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `g2gjDAYE0REd`: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `g2gjDAYE0REd`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `WlsMfDEMEzTO`: CLE @ NYK NYK -4.5 -105 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `Q3IYyuPMSapg`: CLE @ NYK NYK -4.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `w2hHrwwSyfBL`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6wj8KkVZ98om`: WAS @ IND IND -3.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6wj8KkVZ98om`: BOS @ TOR Over 216.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `4CDrQn8wq66I`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `4CDrQn8wq66I`: BOS @ TOR Over 216.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `eO6878X2EbRL`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `H2dH8BubuXUo`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `H2dH8BubuXUo`: CLE @ NYK NYK -4.5 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `c7tolsT3175q`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `QkvL138ZCE8A`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `vO1itZiLeuUV`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `vO1itZiLeuUV`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `vO1itZiLeuUV`: BOS @ TOR Over 216.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `vO1itZiLeuUV`: CLE @ NYK NYK -4.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `8BufS6JYwQ0g`: WAS @ IND IND -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `8BufS6JYwQ0g`: BOS @ TOR TOR +5.5 -106 (ESPN BET): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YTNK9DOiloAu`: BOS @ TOR TOR +5.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `qA0Vrg6ftTwB`: BOS @ TOR TOR +5.5 -114 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `qA0Vrg6ftTwB`: BOS @ TOR Over 216.0 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `Gv3t5KTAEmgO`: CLE @ NYK NYK -4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YCs9ngsGfIV1`: BOS @ TOR TOR +5.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YCs9ngsGfIV1`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `DS2Jp6uh2Xp8`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ENwkHgVkKlfo`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6R08wfWv1tA4`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6ImYzgL13A34`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `Asjs0WLkzhnc`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `E8BAwkkCUcS7`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `naPPSdNKe7sd`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `rHhdBFvy0pJP`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `wzEMKR7g8clt`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `KlOeGii043GD`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `LZniSzYfAVqy`: BKN @ NOP Over 228.5 +108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-11 15:12 UTC
 
 - Added `HJfWcep69nBb` (2026-11-11 14:30 UTC): PAPER MLB 2026-11-11: no edges
