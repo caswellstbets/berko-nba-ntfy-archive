@@ -2524,3 +2524,12 @@ Regular Season | Nov 12, 2026 | 8:59 PM EST
 
 - Odds check: CHA @ PHX CHA +6.5 -105 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
 - Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-13: no edges
+*2026-11-13 14:30 UTC · id `YgLcHvD2XG3N`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
