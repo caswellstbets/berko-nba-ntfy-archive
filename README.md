@@ -2533,3 +2533,306 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] New Pick: IND +8.5 at -108
+*2026-11-13 22:32 UTC · id `6mdMdFMsU60d`*
+
+```
+NYK @ IND
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.99 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.23
+
+Regular Season | Nov 13, 2026 | 5:32 PM EST
+```
+
+- Odds check: NYK @ IND IND +8.5 -108 (BetMGM), checked 79.2 min after alert: BetMGM had 7.5 -105 → different line; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 8.5 -125 (alt line)
+
+## NBA [Price unverified] Pick Updated: IND +8.5 at -108
+*2026-11-13 23:17 UTC · id `sOxARMyvpfEY`*
+
+```
+NYK @ IND
+Market edge: +10.99 pp -> +10.53 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.53 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.23
+
+Regular Season | Nov 13, 2026 | 6:17 PM EST
+```
+
+- Odds check: NYK @ IND IND +8.5 -108 (BetMGM), checked 34.2 min after alert: BetMGM had 7.5 -105 → different line; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 8.5 -125 (alt line)
+
+## NBA [Price unverified] Pick Updated: IND +7.5 at -100
+*2026-11-13 23:24 UTC · id `qNQFZ3AuDflK`*
+
+```
+NYK @ IND
+Pick: IND +8.5 -> IND +7.5
+Odds: -108 -> -100
+Market edge: +10.53 pp -> +9.73 pp
+Estimated profit per $100 wagered: +$23.23 -> +$23.06
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.73 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+Regular Season | Nov 13, 2026 | 6:24 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 27 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+
+## NBA [Price unverified] Pick Updated: IND +7.5 at -100
+*2026-11-13 23:26 UTC · id `x6Lug9TCD3U1`*
+
+```
+NYK @ IND
+Market edge: +9.73 pp -> +9.98 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.98 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+Regular Season | Nov 13, 2026 | 6:26 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 25.2 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+
+## NBA [Price unverified] Pick Updated: IND +7.5 at -100
+*2026-11-13 23:29 UTC · id `grLtDj5ELTKv`*
+
+```
+NYK @ IND
+Market edge: +9.98 pp -> +9.00 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.00 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+Regular Season | Nov 13, 2026 | 6:29 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 22.2 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+
+## NBA [Price unverified] Picks: 4 new
+*2026-11-13 23:32 UTC · id `fxFik2auVZsC`*
+
+```
+New picks (4):
+MEM @ NOP: MEM ML at -150
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.26 pp | Confidence: High
+Estimated profit per $100 wagered: +$14.13
+
+MEM @ NOP: MEM -3.5 at +104
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 0.87 units
+Market edge: +7.02 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.22
+
+ATL @ CHI: Over 245.5 at -112
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fanatics | Model size: 2.57 units
+Market edge: +4.14 pp | Confidence: Low
+Estimated profit per $100 wagered: +$10.29
+
+CLE @ MIA: Over 236.0 at -110
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 2.99 units
+Market edge: +5.09 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.89
+
+Other active picks in the games checked (1):
+NYK @ IND: IND +7.5 at -100 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:32 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -150 (BetMGM), checked 18.9 min after alert: BetMGM had -165 → same line, odds noticeably worse; elsewhere: DraftKings -162, FanDuel -166, BetRivers -162, bet365 -162, Caesars -170, Fanatics -165, theScore Bet -150, Pinnacle -157
+- Odds check: MEM @ NOP MEM -3.5 +104 (BetMGM), checked 18.9 min after alert: BetMGM had -3.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -3.5 -108, FanDuel -3.5 -115, BetRivers -3.5 -109, bet365 -3.5 -110, Caesars -3.5 -110, Fanatics -3.5 -110, theScore Bet -2.5 -120, Pinnacle -3.5 -106
+- Odds check: ATL @ CHI Over 245.5 -112 (Fanatics), checked 18.9 min after alert: Fanatics had 246.5 -110 → different line; elsewhere: DraftKings 246.5 -107, FanDuel 245.5 -110, BetRivers 245.5 -113, BetMGM 246.5 -110, bet365 246.5 -107, Caesars 246.5 -110, theScore Bet 246.5 -105, Pinnacle 245.5 -116 (alt line)
+- Odds check: CLE @ MIA Over 236.0 -110 (Pinnacle), checked 18.9 min after alert: Pinnacle had 236 +103 → same line and odds; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, theScore Bet 234.5 -115
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-13 23:35 UTC · id `ZV1yUYQSTYos`*
+
+```
+Updated picks (3):
+NYK @ IND: IND +7.5 at +104
+Odds: -100 -> +104
+Estimated profit per $100 wagered: +$23.06 -> +$25.52
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.00 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.52
+
+ATL @ CHI: Over 245.5 at -110
+Odds: -112 -> -110
+Book: Fanatics -> Caesars
+Estimated profit per $100 wagered: +$10.29 -> +$11.24
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 2.57 units
+Market edge: +4.14 pp | Confidence: Low
+Estimated profit per $100 wagered: +$11.24
+
+CLE @ MIA: Over 235.5 at -107
+Pick: Over 236.0 -> Over 235.5
+Odds: -110 -> -107
+Book: Pinnacle -> ESPN BET
+Size: 2.99 units -> 3.51 units
+Market edge: +5.09 pp -> +6.08 pp
+Estimated profit per $100 wagered: +$10.89 -> +$14.27
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: ESPN BET | Model size: 3.51 units
+Market edge: +6.08 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.27
+
+Other active picks in the games checked (2):
+MEM @ NOP: MEM ML at -150 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:35 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 +104 (BetMGM), checked 16 min after alert: BetMGM had 7.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check: ATL @ CHI Over 245.5 -110 (Caesars), checked 16 min after alert: Caesars had 246.5 -110 → different line; elsewhere: DraftKings 246.5 -107, FanDuel 245.5 -110, BetRivers 245.5 -113, BetMGM 246.5 -110, bet365 246.5 -107, Fanatics 246.5 -110, theScore Bet 246.5 -105, Pinnacle 245.5 -116 (alt line)
+- Odds check: CLE @ MIA Over 235.5 -107 (ESPN BET), checked 16 min after alert: theScore Bet had 234.5 -115 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, Pinnacle 235.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 1 updated, 1 removed
+*2026-11-13 23:38 UTC · id `hvaDRwiq0wsC`*
+
+```
+Updated picks (1):
+CLE @ MIA: Over 236.0 at -110
+Pick: Over 235.5 -> Over 236.0
+Odds: -107 -> -110
+Book: ESPN BET -> Pinnacle
+Size: 3.51 units -> 2.99 units
+Market edge: +6.08 pp -> +5.09 pp
+Estimated profit per $100 wagered: +$14.27 -> +$10.89
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 2.99 units
+Market edge: +5.09 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.89
+
+Removed picks (1):
+ATL @ CHI: Over 245.5
+No longer recommended.
+Any bets already placed are unaffected.
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -150 (price unverified)
+NYK @ IND: IND +7.5 at +104 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:38 PM EST
+```
+
+- Odds check: CLE @ MIA Over 236.0 -110 (Pinnacle), checked 12.7 min after alert: Pinnacle had 236 +103 → same line and odds; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, theScore Bet 234.5 -115
+
+## NBA [Price unverified] Pick Updated: Over 235.5 at -107
+*2026-11-13 23:41 UTC · id `k4Ei4dKo81XS`*
+
+```
+CLE @ MIA
+Pick: Over 236.0 -> Over 235.5
+Odds: -110 -> -107
+Book: Pinnacle -> ESPN BET
+Size: 2.99 units -> 3.31 units
+Market edge: +5.09 pp -> +5.62 pp
+Estimated profit per $100 wagered: +$10.89 -> +$14.27
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: ESPN BET | Model size: 3.31 units
+Market edge: +5.62 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.27
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -150 (price unverified)
+NYK @ IND: IND +7.5 at +104 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:41 PM EST
+```
+
+- Odds check: CLE @ MIA Over 235.5 -107 (ESPN BET), checked 10 min after alert: theScore Bet had 234.5 -115 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, Pinnacle 235.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: Over 235.5 at -105
+*2026-11-13 23:44 UTC · id `rUvF6jzIi3AX`*
+
+```
+CLE @ MIA
+Odds: -107 -> -105
+Book: ESPN BET -> Caesars
+Size: 3.31 units -> 3.51 units
+Market edge: +5.62 pp -> +6.08 pp
+Estimated profit per $100 wagered: +$14.27 -> +$15.32
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 3.51 units
+Market edge: +6.08 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.32
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -150 (price unverified)
+NYK @ IND: IND +7.5 at +104 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:44 PM EST
+```
+
+- Odds check: CLE @ MIA Over 235.5 -105 (Caesars), checked 7 min after alert: Caesars had 235 -110 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Fanatics 236.5 -110, theScore Bet 234.5 -115, Pinnacle 235.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-13 23:47 UTC · id `aujSP0NaQkDF`*
+
+```
+Updated picks (2):
+NYK @ IND: IND +7.5 at -100
+Odds: +104 -> -100
+Market edge: +9.00 pp -> +9.24 pp
+Estimated profit per $100 wagered: +$25.52 -> +$23.06
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.24 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+CLE @ MIA: Over 235.5 at -105
+Size: 3.51 units -> 3.72 units
+Market edge: +6.08 pp -> +6.54 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 3.72 units
+Market edge: +6.54 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.32
+
+Other active picks in the games checked (2):
+MEM @ NOP: MEM ML at -150 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:47 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 4 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check: CLE @ MIA Over 235.5 -105 (Caesars), checked 4 min after alert: Caesars had 235 -110 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Fanatics 236.5 -110, theScore Bet 234.5 -115, Pinnacle 235.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: IND +7.5 at -100
+*2026-11-13 23:50 UTC · id `6cK7jK8TOgcM`*
+
+```
+NYK @ IND
+Market edge: +9.24 pp -> +9.48 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.48 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -150 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:50 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 1 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)

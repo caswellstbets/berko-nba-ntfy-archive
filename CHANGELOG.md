@@ -2,6 +2,39 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-13 23:51 UTC
+
+- Added `6mdMdFMsU60d` (2026-11-13 22:32 UTC): NBA [Price unverified] New Pick: IND +8.5 at -108
+- Added `sOxARMyvpfEY` (2026-11-13 23:17 UTC): NBA [Price unverified] Pick Updated: IND +8.5 at -108
+- Added `qNQFZ3AuDflK` (2026-11-13 23:24 UTC): NBA [Price unverified] Pick Updated: IND +7.5 at -100
+- Added `x6Lug9TCD3U1` (2026-11-13 23:26 UTC): NBA [Price unverified] Pick Updated: IND +7.5 at -100
+- Added `grLtDj5ELTKv` (2026-11-13 23:29 UTC): NBA [Price unverified] Pick Updated: IND +7.5 at -100
+- Added `fxFik2auVZsC` (2026-11-13 23:32 UTC): NBA [Price unverified] Picks: 4 new
+- Added `ZV1yUYQSTYos` (2026-11-13 23:35 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `hvaDRwiq0wsC` (2026-11-13 23:38 UTC): NBA [Price unverified] Picks: 1 updated, 1 removed
+- Added `k4Ei4dKo81XS` (2026-11-13 23:41 UTC): NBA [Price unverified] Pick Updated: Over 235.5 at -107
+- Added `rUvF6jzIi3AX` (2026-11-13 23:44 UTC): NBA [Price unverified] Pick Updated: Over 235.5 at -105
+- Added `aujSP0NaQkDF` (2026-11-13 23:47 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `6cK7jK8TOgcM` (2026-11-13 23:50 UTC): NBA [Price unverified] Pick Updated: IND +7.5 at -100
+- Odds check `6mdMdFMsU60d`: NYK @ IND IND +8.5 -108 (BetMGM), checked 79.2 min after alert: BetMGM had 7.5 -105 → different line; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 8.5 -125 (alt line)
+- Odds check `sOxARMyvpfEY`: NYK @ IND IND +8.5 -108 (BetMGM), checked 34.2 min after alert: BetMGM had 7.5 -105 → different line; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 8.5 -125 (alt line)
+- Odds check `qNQFZ3AuDflK`: NYK @ IND IND +7.5 -100 (BetMGM), checked 27 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check `x6Lug9TCD3U1`: NYK @ IND IND +7.5 -100 (BetMGM), checked 25.2 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check `grLtDj5ELTKv`: NYK @ IND IND +7.5 -100 (BetMGM), checked 22.2 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check `fxFik2auVZsC`: MEM @ NOP MEM ML -150 (BetMGM), checked 18.9 min after alert: BetMGM had -165 → same line, odds noticeably worse; elsewhere: DraftKings -162, FanDuel -166, BetRivers -162, bet365 -162, Caesars -170, Fanatics -165, theScore Bet -150, Pinnacle -157
+- Odds check `fxFik2auVZsC`: MEM @ NOP MEM -3.5 +104 (BetMGM), checked 18.9 min after alert: BetMGM had -3.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -3.5 -108, FanDuel -3.5 -115, BetRivers -3.5 -109, bet365 -3.5 -110, Caesars -3.5 -110, Fanatics -3.5 -110, theScore Bet -2.5 -120, Pinnacle -3.5 -106
+- Odds check `fxFik2auVZsC`: ATL @ CHI Over 245.5 -112 (Fanatics), checked 18.9 min after alert: Fanatics had 246.5 -110 → different line; elsewhere: DraftKings 246.5 -107, FanDuel 245.5 -110, BetRivers 245.5 -113, BetMGM 246.5 -110, bet365 246.5 -107, Caesars 246.5 -110, theScore Bet 246.5 -105, Pinnacle 245.5 -116 (alt line)
+- Odds check `fxFik2auVZsC`: CLE @ MIA Over 236.0 -110 (Pinnacle), checked 18.9 min after alert: Pinnacle had 236 +103 → same line and odds; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, theScore Bet 234.5 -115
+- Odds check `ZV1yUYQSTYos`: NYK @ IND IND +7.5 +104 (BetMGM), checked 16 min after alert: BetMGM had 7.5 -105 → same line, odds noticeably worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check `ZV1yUYQSTYos`: ATL @ CHI Over 245.5 -110 (Caesars), checked 16 min after alert: Caesars had 246.5 -110 → different line; elsewhere: DraftKings 246.5 -107, FanDuel 245.5 -110, BetRivers 245.5 -113, BetMGM 246.5 -110, bet365 246.5 -107, Fanatics 246.5 -110, theScore Bet 246.5 -105, Pinnacle 245.5 -116 (alt line)
+- Odds check `ZV1yUYQSTYos`: CLE @ MIA Over 235.5 -107 (ESPN BET), checked 16 min after alert: theScore Bet had 234.5 -115 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, Pinnacle 235.5 -103 (alt line)
+- Odds check `hvaDRwiq0wsC`: CLE @ MIA Over 236.0 -110 (Pinnacle), checked 12.7 min after alert: Pinnacle had 236 +103 → same line and odds; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, theScore Bet 234.5 -115
+- Odds check `k4Ei4dKo81XS`: CLE @ MIA Over 235.5 -107 (ESPN BET), checked 10 min after alert: theScore Bet had 234.5 -115 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Caesars 235 -110, Fanatics 236.5 -110, Pinnacle 235.5 -103 (alt line)
+- Odds check `rUvF6jzIi3AX`: CLE @ MIA Over 235.5 -105 (Caesars), checked 7 min after alert: Caesars had 235 -110 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Fanatics 236.5 -110, theScore Bet 234.5 -115, Pinnacle 235.5 -103 (alt line)
+- Odds check `aujSP0NaQkDF`: NYK @ IND IND +7.5 -100 (BetMGM), checked 4 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+- Odds check `aujSP0NaQkDF`: CLE @ MIA Over 235.5 -105 (Caesars), checked 4 min after alert: Caesars had 235 -110 → different line; elsewhere: DraftKings 234.5 -115, FanDuel 235.5 -105, BetRivers 235.5 -108, bet365 235.5 -107, Fanatics 236.5 -110, theScore Bet 234.5 -115, Pinnacle 235.5 -103 (alt line)
+- Odds check `6cK7jK8TOgcM`: NYK @ IND IND +7.5 -100 (BetMGM), checked 1 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+
 ## 2026-11-13 18:39 UTC
 
 - Added `YgLcHvD2XG3N` (2026-11-13 14:30 UTC): PAPER MLB 2026-11-13: no edges
