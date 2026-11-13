@@ -2,6 +2,49 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-13 03:37 UTC
+
+- Added `c6bx0K1kvTsF` (2026-11-12 23:44 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -105
+- Added `KrK9s2c0q4eQ` (2026-11-12 23:47 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+- Added `ahhSsxkwSW1G` (2026-11-12 23:50 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+- Added `wgTO5H0BUqWp` (2026-11-12 23:53 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+- Added `f45Qo0Pfiisz` (2026-11-12 23:56 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+- Added `dF8DGWsj8bFN` (2026-11-12 23:59 UTC): NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+- Added `6099O1YMLf48` (2026-11-13 00:32 UTC): NBA [Price unverified] Picks: 2 new
+- Added `oNP6fWe3EGYl` (2026-11-13 00:50 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `sazfv50LPFNW` (2026-11-13 00:53 UTC): NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+- Added `mL987AysQKFJ` (2026-11-13 01:05 UTC): NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+- Added `TBoOnEWGM8TX` (2026-11-13 01:08 UTC): NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+- Added `hcLqUdHqai0y` (2026-11-13 01:29 UTC): NBA [Price unverified] Pick Updated: Over 214.5 at -100
+- Added `pn33WnBfsHJi` (2026-11-13 01:32 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `sOoX8ACa1oYt` (2026-11-13 01:35 UTC): NBA [Price unverified] Pick Updated: Over 214.5 at -104
+- Added `kkjFvkB02zg6` (2026-11-13 01:38 UTC): NBA [Price unverified] Pick Updated: Over 214.5 at -104
+- Added `vZ10nxrYyEFz` (2026-11-13 01:41 UTC): NBA [Price unverified] Pick Updated: Over 214.5 at -104
+- Added `8cQTktYBZ8GJ` (2026-11-13 01:56 UTC): NBA [Price unverified] Pick Updated: CHA +6.5 at -105
+- Added `bSIzVXeDMp12` (2026-11-13 01:59 UTC): NBA [Price unverified] Picks: 2 updated
+- Odds check `c6bx0K1kvTsF`: TOR @ PHI TOR +7.5 -105 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `KrK9s2c0q4eQ`: TOR @ PHI TOR +7.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ahhSsxkwSW1G`: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `wgTO5H0BUqWp`: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `f45Qo0Pfiisz`: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `dF8DGWsj8bFN`: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6099O1YMLf48`: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6099O1YMLf48`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `oNP6fWe3EGYl`: CHA @ PHX CHA +6.5 +100 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `oNP6fWe3EGYl`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `sazfv50LPFNW`: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `mL987AysQKFJ`: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `TBoOnEWGM8TX`: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `hcLqUdHqai0y`: CHA @ PHX Over 214.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `pn33WnBfsHJi`: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `pn33WnBfsHJi`: CHA @ PHX Over 214.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `sOoX8ACa1oYt`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `kkjFvkB02zg6`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `vZ10nxrYyEFz`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `8cQTktYBZ8GJ`: CHA @ PHX CHA +6.5 -105 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `bSIzVXeDMp12`: CHA @ PHX CHA +6.5 -105 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `bSIzVXeDMp12`: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-12 23:43 UTC
 
 - Added `eNfijO3Xijki` (2026-11-12 22:32 UTC): NBA [Price unverified] New Pick: TOR +7.5 at -108

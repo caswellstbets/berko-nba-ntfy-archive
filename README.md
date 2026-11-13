@@ -2156,3 +2156,371 @@ Regular Season | Nov 12, 2026 | 6:38 PM EST
 ```
 
 - Odds check: TOR @ PHI TOR +7.5 -104 (Pinnacle), checked 4.5 min after alert: Pinnacle had 7.5 -103 (alt line) → same line and odds; elsewhere: DraftKings 8.5 -118, FanDuel 7.5 -118, BetRivers 8.5 -115, BetMGM 7.5 -105, bet365 7.5 -107, Caesars 7.5 -110, Fanatics 7.5 -115, theScore Bet 9.5 +100
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -105
+*2026-11-12 23:44 UTC · id `c6bx0K1kvTsF`*
+
+```
+TOR @ PHI
+Odds: -104 -> -105
+Book: Pinnacle -> FanDuel
+Size: 2.66 units -> 2.41 units
+Market edge: +9.02 pp -> +8.78 pp
+Estimated profit per $100 wagered: +$12.25 -> +$11.72
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 2.41 units
+Market edge: +8.78 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$11.72
+
+Regular Season | Nov 12, 2026 | 6:44 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -105 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -108
+*2026-11-12 23:47 UTC · id `KrK9s2c0q4eQ`*
+
+```
+TOR @ PHI
+Odds: -105 -> -108
+Book: FanDuel -> BetMGM
+Size: 2.41 units -> 2.78 units
+Market edge: +8.78 pp -> +9.02 pp
+Estimated profit per $100 wagered: +$11.72 -> +$10.21
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.78 units
+Market edge: +9.02 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$10.21
+
+Regular Season | Nov 12, 2026 | 6:47 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+*2026-11-12 23:50 UTC · id `ahhSsxkwSW1G`*
+
+```
+TOR @ PHI
+Odds: -108 -> -104
+Size: 2.78 units -> 2.90 units
+Market edge: +9.02 pp -> +9.50 pp
+Estimated profit per $100 wagered: +$10.21 -> +$12.25
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.90 units
+Market edge: +9.50 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$12.25
+
+Regular Season | Nov 12, 2026 | 6:50 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+*2026-11-12 23:53 UTC · id `wgTO5H0BUqWp`*
+
+```
+TOR @ PHI
+Market edge: +9.50 pp -> +10.22 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.90 units
+Market edge: +10.22 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$12.25
+
+Regular Season | Nov 12, 2026 | 6:53 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+*2026-11-12 23:56 UTC · id `f45Qo0Pfiisz`*
+
+```
+TOR @ PHI
+Market edge: +10.22 pp -> +9.50 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.90 units
+Market edge: +9.50 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$12.25
+
+Regular Season | Nov 12, 2026 | 6:56 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +7.5 at -104
+*2026-11-12 23:59 UTC · id `dF8DGWsj8bFN`*
+
+```
+TOR @ PHI
+Market edge: +9.50 pp -> +9.26 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.90 units
+Market edge: +9.26 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$12.25
+
+Regular Season | Nov 12, 2026 | 6:59 PM EST
+```
+
+- Odds check: TOR @ PHI TOR +7.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 new
+*2026-11-13 00:32 UTC · id `6099O1YMLf48`*
+
+```
+New picks (2):
+CHA @ PHX: CHA +6.5 at -104
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.87 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.47
+
+CHA @ PHX: Over 214.5 at -104
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.03 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Regular Season | Nov 12, 2026 | 7:32 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-13 00:50 UTC · id `oNP6fWe3EGYl`*
+
+```
+Updated picks (2):
+CHA @ PHX: CHA +6.5 at +100
+Odds: -104 -> +100
+Book: BetMGM -> Hard Rock Bet
+Estimated profit per $100 wagered: +$13.47 -> +$15.69
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 2.87 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$15.69
+
+CHA @ PHX: Over 214.5 at -104
+Market edge: +13.03 pp -> +13.02 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.02 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Regular Season | Nov 12, 2026 | 7:50 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 +100 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+*2026-11-13 00:53 UTC · id `sazfv50LPFNW`*
+
+```
+CHA @ PHX
+Odds: +100 -> -104
+Book: Hard Rock Bet -> BetMGM
+Estimated profit per $100 wagered: +$15.69 -> +$13.47
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.87 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.47
+
+Other active picks in the games checked (1):
+CHA @ PHX: Over 214.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 7:53 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+*2026-11-13 01:05 UTC · id `mL987AysQKFJ`*
+
+```
+CHA @ PHX
+Size: 2.87 units -> 3.08 units
+Market edge: +10.84 pp -> +10.83 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.08 units
+Market edge: +10.83 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.47
+
+Other active picks in the games checked (1):
+CHA @ PHX: Over 214.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:05 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: CHA +6.5 at -104
+*2026-11-13 01:08 UTC · id `TBoOnEWGM8TX`*
+
+```
+CHA @ PHX
+Size: 3.08 units -> 3.29 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.29 units
+Market edge: +10.83 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.47
+
+Other active picks in the games checked (1):
+CHA @ PHX: Over 214.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:08 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 214.5 at -100
+*2026-11-13 01:29 UTC · id `hcLqUdHqai0y`*
+
+```
+CHA @ PHX
+Odds: -104 -> -100
+Estimated profit per $100 wagered: +$28.57 -> +$31.09
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.02 pp | Confidence: High
+Estimated profit per $100 wagered: +$31.09
+
+Other active picks in the games checked (1):
+CHA @ PHX: CHA +6.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:29 PM EST
+```
+
+- Odds check: CHA @ PHX Over 214.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-13 01:32 UTC · id `pn33WnBfsHJi`*
+
+```
+Updated picks (2):
+CHA @ PHX: CHA +6.5 at -104
+Size: 3.29 units -> 2.87 units
+Market edge: +10.83 pp -> +10.84 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.87 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.47
+
+CHA @ PHX: Over 214.5 at -100
+Market edge: +13.02 pp -> +13.03 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.03 pp | Confidence: High
+Estimated profit per $100 wagered: +$31.09
+
+Regular Season | Nov 12, 2026 | 8:32 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CHA @ PHX Over 214.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 214.5 at -104
+*2026-11-13 01:35 UTC · id `sOoX8ACa1oYt`*
+
+```
+CHA @ PHX
+Odds: -100 -> -104
+Estimated profit per $100 wagered: +$31.09 -> +$28.57
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.03 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Other active picks in the games checked (1):
+CHA @ PHX: CHA +6.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:35 PM EST
+```
+
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 214.5 at -104
+*2026-11-13 01:38 UTC · id `kkjFvkB02zg6`*
+
+```
+CHA @ PHX
+Market edge: +13.03 pp -> +12.78 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +12.78 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Other active picks in the games checked (1):
+CHA @ PHX: CHA +6.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:38 PM EST
+```
+
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 214.5 at -104
+*2026-11-13 01:41 UTC · id `vZ10nxrYyEFz`*
+
+```
+CHA @ PHX
+Market edge: +12.78 pp -> +12.55 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +12.55 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Other active picks in the games checked (1):
+CHA @ PHX: CHA +6.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:41 PM EST
+```
+
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: CHA +6.5 at -105
+*2026-11-13 01:56 UTC · id `8cQTktYBZ8GJ`*
+
+```
+CHA @ PHX
+Odds: -104 -> -105
+Book: BetMGM -> DraftKings
+Size: 2.87 units -> 2.76 units
+Estimated profit per $100 wagered: +$13.47 -> +$12.94
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 2.76 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$12.94
+
+Other active picks in the games checked (1):
+CHA @ PHX: Over 214.5 at -104 (price unverified)
+
+Regular Season | Nov 12, 2026 | 8:56 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -105 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-13 01:59 UTC · id `bSIzVXeDMp12`*
+
+```
+Updated picks (2):
+CHA @ PHX: CHA +6.5 at -105
+Size: 2.76 units -> 2.66 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: DraftKings | Model size: 2.66 units
+Market edge: +10.84 pp | Confidence: High
+Estimated profit per $100 wagered: +$12.94
+
+CHA @ PHX: Over 214.5 at -104
+Market edge: +12.55 pp -> +12.78 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +12.78 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.57
+
+Regular Season | Nov 12, 2026 | 8:59 PM EST
+```
+
+- Odds check: CHA @ PHX CHA +6.5 -105 (DraftKings): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CHA @ PHX Over 214.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
