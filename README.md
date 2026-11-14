@@ -2836,3 +2836,431 @@ Regular Season | Nov 13, 2026 | 6:50 PM EST
 ```
 
 - Odds check: NYK @ IND IND +7.5 -100 (BetMGM), checked 1 min after alert: BetMGM had 7.5 -105 → same line, odds slightly worse; elsewhere: DraftKings 7.5 -108, FanDuel 8.5 -120, BetRivers 7.5 -108, bet365 7.5 -102, Caesars 7.5 -105, Fanatics 7.5 -105, theScore Bet 7.5 -110, Pinnacle 7.5 -105 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-13 23:54 UTC · id `26qJmny8ikmO`*
+
+```
+Updated picks (2):
+NYK @ IND: IND +7.5 at -100
+Market edge: +9.48 pp -> +9.00 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.00 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.06
+
+MEM @ NOP: MEM ML at -150
+Market edge: +11.26 pp -> +11.25 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.25 pp | Confidence: High
+Estimated profit per $100 wagered: +$14.13
+
+Other active picks in the games checked (2):
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:54 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: MEM @ NOP MEM ML -150 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-13 23:56 UTC · id `4LtqD3OXkta0`*
+
+```
+Updated picks (3):
+NYK @ IND: IND +7.5 at +104
+Odds: -100 -> +104
+Estimated profit per $100 wagered: +$23.06 -> +$25.52
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.00 pp | Confidence: High
+Estimated profit per $100 wagered: +$25.52
+
+MEM @ NOP: MEM ML at -144
+Odds: -150 -> -144
+Market edge: +11.25 pp -> +11.26 pp
+Estimated profit per $100 wagered: +$14.13 -> +$16.03
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.26 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+CLE @ MIA: Over 235.0 at -110
+Pick: Over 235.5 -> Over 235.0
+Odds: -105 -> -110
+Book: Caesars -> Pinnacle
+Size: 3.72 units -> 4.03 units
+Market edge: +6.54 pp -> +7.06 pp
+Estimated profit per $100 wagered: +$15.32 -> +$14.64
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 4.03 units
+Market edge: +7.06 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.64
+
+Other active picks in the games checked (1):
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 6:56 PM EST
+```
+
+- Odds check: NYK @ IND IND +7.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: CLE @ MIA Over 235.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 235.5 at -105
+*2026-11-14 00:02 UTC · id `LBtIFo93MbO3`*
+
+```
+CLE @ MIA
+Pick: Over 235.0 -> Over 235.5
+Odds: -110 -> -105
+Book: Pinnacle -> FanDuel
+Size: 4.03 units -> 4.02 units
+Market edge: +7.06 pp -> +7.26 pp
+Estimated profit per $100 wagered: +$14.64 -> +$15.32
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 4.02 units
+Market edge: +7.26 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.32
+
+Other active picks in the games checked (2):
+MEM @ NOP: MEM ML at -144 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:02 PM EST
+```
+
+- Odds check: CLE @ MIA Over 235.5 -105 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MEM ML at -144
+*2026-11-14 00:05 UTC · id `AlNeSLD9TkyF`*
+
+```
+MEM @ NOP
+Market edge: +11.26 pp -> +11.25 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.25 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+Other active picks in the games checked (2):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:05 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] New Pick: Over 245.5 at -110
+*2026-11-14 00:08 UTC · id `EsJD0zB0jnIs`*
+
+```
+ATL @ CHI
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 2.88 units
+Market edge: +4.81 pp | Confidence: Low
+Estimated profit per $100 wagered: +$11.24
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -144 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:08 PM EST
+```
+
+- Odds check: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA Pick Removed: Over 245.5
+*2026-11-14 00:17 UTC · id `MAucn4D0kUcV`*
+
+```
+ATL @ CHI
+No longer recommended.
+Any bets already placed are unaffected.
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -144 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:17 PM EST
+```
+
+## NBA [Price unverified] Picks: 1 new, 1 updated
+*2026-11-14 00:29 UTC · id `YeKlYZL79IVE`*
+
+```
+New picks (1):
+ATL @ CHI: Over 245.5 at -110
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 2.78 units
+Market edge: +4.58 pp | Confidence: Low
+Estimated profit per $100 wagered: +$11.24
+
+Updated picks (1):
+MEM @ NOP: MEM ML at -144
+Market edge: +11.25 pp -> +11.26 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.26 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+Other active picks in the games checked (2):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:29 PM EST
+```
+
+- Odds check: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-14 00:32 UTC · id `MzVxquLcBYOB`*
+
+```
+Updated picks (2):
+MEM @ NOP: MEM ML at -144
+Market edge: +11.26 pp -> +11.25 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.25 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+MEM @ NOP: MEM -3.5 at +104
+Size: 0.87 units -> 0.98 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 0.98 units
+Market edge: +7.02 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.22
+
+Other active picks in the games checked (2):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+ATL @ CHI: Over 245.5 at -110 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:32 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MEM -3.5 at +104
+*2026-11-14 00:35 UTC · id `ZNJYLi9g60Co`*
+
+```
+MEM @ NOP
+Size: 0.98 units -> 0.75 units
+Market edge: +7.02 pp -> +6.55 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 0.75 units
+Market edge: +6.55 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.22
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -144 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+ATL @ CHI: Over 245.5 at -110 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:35 PM EST
+```
+
+- Odds check: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MEM -3.5 at +104
+*2026-11-14 00:38 UTC · id `6wOQN9uj0aHm`*
+
+```
+MEM @ NOP
+Size: 0.75 units -> 0.64 units
+Market edge: +6.55 pp -> +6.56 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 0.64 units
+Market edge: +6.56 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$10.22
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -144 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+ATL @ CHI: Over 245.5 at -110 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:38 PM EST
+```
+
+- Odds check: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 245.5 at -110
+*2026-11-14 00:47 UTC · id `YYCjHmVosi8k`*
+
+```
+ATL @ CHI
+Size: 2.78 units -> 2.88 units
+Market edge: +4.58 pp -> +4.81 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 2.88 units
+Market edge: +4.81 pp | Confidence: Low
+Estimated profit per $100 wagered: +$11.24
+
+Other active picks in the games checked (3):
+MEM @ NOP: MEM ML at -144 (price unverified)
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:47 PM EST
+```
+
+- Odds check: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MEM ML at -144
+*2026-11-14 00:50 UTC · id `ope2hjTzyG2J`*
+
+```
+MEM @ NOP
+Market edge: +11.25 pp -> +10.71 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.71 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+Other active picks in the games checked (3):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+ATL @ CHI: Over 245.5 at -110 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:50 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MEM ML at -144
+*2026-11-14 00:54 UTC · id `T7SuA1KvGL8S`*
+
+```
+MEM @ NOP
+Market edge: +10.71 pp -> +10.53 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +10.53 pp | Confidence: High
+Estimated profit per $100 wagered: +$16.03
+
+Other active picks in the games checked (3):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+MEM @ NOP: MEM -3.5 at +104 (price unverified)
+ATL @ CHI: Over 245.5 at -110 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:54 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated, 1 removed
+*2026-11-14 00:56 UTC · id `GbR8aHtx8I4Z`*
+
+```
+Updated picks (2):
+MEM @ NOP: MEM ML at -156
+Odds: -144 -> -156
+Size: 5.00 units -> 4.83 units
+Estimated profit per $100 wagered: +$16.03 -> +$12.37
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.83 units
+Market edge: +10.53 pp | Confidence: High
+Estimated profit per $100 wagered: +$12.37
+
+MEM @ NOP: MEM -3.5 at -104
+Odds: +104 -> -104
+Market edge: +6.56 pp -> +5.83 pp
+Estimated profit per $100 wagered: +$10.22 -> +$5.98
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 0.64 units
+Market edge: +5.83 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$5.98
+
+Removed picks (1):
+ATL @ CHI: Over 245.5
+No longer recommended.
+Any bets already placed are unaffected.
+
+Other active picks in the games checked (1):
+CLE @ MIA: Over 235.5 at -105 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:56 PM EST
+```
+
+- Odds check: MEM @ NOP MEM ML -156 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: MEM @ NOP MEM -3.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 235.0 at -110
+*2026-11-14 00:59 UTC · id `lzCUzyqUroWm`*
+
+```
+CLE @ MIA
+Pick: Over 235.5 -> Over 235.0
+Odds: -105 -> -110
+Book: FanDuel -> Hard Rock Bet
+Size: 4.02 units -> 4.03 units
+Market edge: +7.26 pp -> +7.06 pp
+Estimated profit per $100 wagered: +$15.32 -> +$14.64
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 4.03 units
+Market edge: +7.06 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.64
+
+Other active picks in the games checked (2):
+MEM @ NOP: MEM ML at -156 (price unverified)
+MEM @ NOP: MEM -3.5 at -104 (price unverified)
+
+Regular Season | Nov 13, 2026 | 7:59 PM EST
+```
+
+- Odds check: CLE @ MIA Over 235.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] New Pick: LAC +7.5 at -108
+*2026-11-14 02:02 UTC · id `BerCU5IMtCXZ`*
+
+```
+OKC @ LAC
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.19 units
+Market edge: +5.41 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$13.36
+
+Regular Season | Nov 13, 2026 | 9:02 PM EST
+```
+
+- Odds check: OKC @ LAC LAC +7.5 -108 (BetMGM), checked 97.9 min after alert: BetMGM had 7.5 -110 → same line and odds; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -110, BetRivers 6.5 -117, bet365 6.5 -111, Caesars 6.5 -105, Fanatics 6.5 -110, theScore Bet 6.5 -115, Pinnacle 7.5 -136 (alt line)
+
+## NBA [Price unverified] Pick Updated: LAC +7.5 at -110
+*2026-11-14 02:11 UTC · id `0RAvUUM7tHNf`*
+
+```
+OKC @ LAC
+Odds: -108 -> -110
+Book: BetMGM -> FanDuel
+Estimated profit per $100 wagered: +$13.36 -> +$12.37
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 3.19 units
+Market edge: +5.41 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$12.37
+
+Regular Season | Nov 13, 2026 | 9:11 PM EST
+```
+
+- Odds check: OKC @ LAC LAC +7.5 -110 (FanDuel), checked 88.9 min after alert: FanDuel had 6.5 -110 → different line; elsewhere: DraftKings 6.5 -113, BetRivers 6.5 -117, BetMGM 7.5 -110, bet365 6.5 -111, Caesars 6.5 -105, Fanatics 6.5 -110, theScore Bet 6.5 -115, Pinnacle 7.5 -136 (alt line)
+
+## NBA Pick Removed: LAC +7.5
+*2026-11-14 02:38 UTC · id `5UyY4b4FDfQU`*
+
+```
+OKC @ LAC
+No longer recommended.
+Any bets already placed are unaffected.
+
+No active picks in the games checked.
+
+Regular Season | Nov 13, 2026 | 9:38 PM EST
+```

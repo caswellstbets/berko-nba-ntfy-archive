@@ -2,6 +2,49 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-14 03:40 UTC
+
+- Added `26qJmny8ikmO` (2026-11-13 23:54 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `4LtqD3OXkta0` (2026-11-13 23:56 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `LBtIFo93MbO3` (2026-11-14 00:02 UTC): NBA [Price unverified] Pick Updated: Over 235.5 at -105
+- Added `AlNeSLD9TkyF` (2026-11-14 00:05 UTC): NBA [Price unverified] Pick Updated: MEM ML at -144
+- Added `EsJD0zB0jnIs` (2026-11-14 00:08 UTC): NBA [Price unverified] New Pick: Over 245.5 at -110
+- Added `MAucn4D0kUcV` (2026-11-14 00:17 UTC): NBA Pick Removed: Over 245.5
+- Added `YeKlYZL79IVE` (2026-11-14 00:29 UTC): NBA [Price unverified] Picks: 1 new, 1 updated
+- Added `MzVxquLcBYOB` (2026-11-14 00:32 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `ZNJYLi9g60Co` (2026-11-14 00:35 UTC): NBA [Price unverified] Pick Updated: MEM -3.5 at +104
+- Added `6wOQN9uj0aHm` (2026-11-14 00:38 UTC): NBA [Price unverified] Pick Updated: MEM -3.5 at +104
+- Added `YYCjHmVosi8k` (2026-11-14 00:47 UTC): NBA [Price unverified] Pick Updated: Over 245.5 at -110
+- Added `ope2hjTzyG2J` (2026-11-14 00:50 UTC): NBA [Price unverified] Pick Updated: MEM ML at -144
+- Added `T7SuA1KvGL8S` (2026-11-14 00:54 UTC): NBA [Price unverified] Pick Updated: MEM ML at -144
+- Added `GbR8aHtx8I4Z` (2026-11-14 00:56 UTC): NBA [Price unverified] Picks: 2 updated, 1 removed
+- Added `lzCUzyqUroWm` (2026-11-14 00:59 UTC): NBA [Price unverified] Pick Updated: Over 235.0 at -110
+- Added `BerCU5IMtCXZ` (2026-11-14 02:02 UTC): NBA [Price unverified] New Pick: LAC +7.5 at -108
+- Added `0RAvUUM7tHNf` (2026-11-14 02:11 UTC): NBA [Price unverified] Pick Updated: LAC +7.5 at -110
+- Added `5UyY4b4FDfQU` (2026-11-14 02:38 UTC): NBA Pick Removed: LAC +7.5
+- Odds check `26qJmny8ikmO`: NYK @ IND IND +7.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `26qJmny8ikmO`: MEM @ NOP MEM ML -150 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `4LtqD3OXkta0`: NYK @ IND IND +7.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `4LtqD3OXkta0`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `4LtqD3OXkta0`: CLE @ MIA Over 235.0 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `LBtIFo93MbO3`: CLE @ MIA Over 235.5 -105 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `AlNeSLD9TkyF`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `EsJD0zB0jnIs`: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YeKlYZL79IVE`: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YeKlYZL79IVE`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `MzVxquLcBYOB`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `MzVxquLcBYOB`: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ZNJYLi9g60Co`: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `6wOQN9uj0aHm`: MEM @ NOP MEM -3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YYCjHmVosi8k`: ATL @ CHI Over 245.5 -110 (Caesars): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ope2hjTzyG2J`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `T7SuA1KvGL8S`: MEM @ NOP MEM ML -144 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `GbR8aHtx8I4Z`: MEM @ NOP MEM ML -156 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `GbR8aHtx8I4Z`: MEM @ NOP MEM -3.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `lzCUzyqUroWm`: CLE @ MIA Over 235.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `BerCU5IMtCXZ`: OKC @ LAC LAC +7.5 -108 (BetMGM), checked 97.9 min after alert: BetMGM had 7.5 -110 → same line and odds; elsewhere: DraftKings 6.5 -113, FanDuel 6.5 -110, BetRivers 6.5 -117, bet365 6.5 -111, Caesars 6.5 -105, Fanatics 6.5 -110, theScore Bet 6.5 -115, Pinnacle 7.5 -136 (alt line)
+- Odds check `0RAvUUM7tHNf`: OKC @ LAC LAC +7.5 -110 (FanDuel), checked 88.9 min after alert: FanDuel had 6.5 -110 → different line; elsewhere: DraftKings 6.5 -113, BetRivers 6.5 -117, BetMGM 7.5 -110, bet365 6.5 -111, Caesars 6.5 -105, Fanatics 6.5 -110, theScore Bet 6.5 -115, Pinnacle 7.5 -136 (alt line)
+
 ## 2026-11-13 23:51 UTC
 
 - Added `6mdMdFMsU60d` (2026-11-13 22:32 UTC): NBA [Price unverified] New Pick: IND +8.5 at -108
