@@ -3264,3 +3264,12 @@ No active picks in the games checked.
 
 Regular Season | Nov 13, 2026 | 9:38 PM EST
 ```
+
+## PAPER MLB 2026-11-14: no edges
+*2026-11-14 14:30 UTC · id `VwpEioMrRzrf`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
