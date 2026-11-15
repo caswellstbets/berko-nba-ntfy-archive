@@ -3273,3 +3273,766 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] New Pick: Over 228.0 at -110
+*2026-11-14 23:02 UTC · id `bfmRGqZZECqF`*
+
+```
+DAL @ CLE
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 4.00 units
+Market edge: +7.01 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.55
+
+Regular Season | Nov 14, 2026 | 6:02 PM EST
+```
+
+- Odds check: DAL @ CLE Over 228.0 -110 (Fliff), checked 96.9 min after alert: no free odds feed covers Fliff; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 228 -111 (alt line)
+
+## NBA [Price unverified] Pick Updated: Over 228.5 at -107
+*2026-11-14 23:05 UTC · id `JCEYrGOaEYbM`*
+
+```
+DAL @ CLE
+Pick: Over 228.0 -> Over 228.5
+Odds: -110 -> -107
+Book: Fliff -> FanDuel
+Size: 4.00 units -> 3.79 units
+Market edge: +7.01 pp -> +6.73 pp
+Estimated profit per $100 wagered: +$14.55 -> +$14.18
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 3.79 units
+Market edge: +6.73 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.18
+
+Regular Season | Nov 14, 2026 | 6:05 PM EST
+```
+
+- Odds check: DAL @ CLE Over 228.5 -107 (FanDuel), checked 94 min after alert: FanDuel had 227.5 -108 → different line; elsewhere: DraftKings 228.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 228.5 -105 (alt line)
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at -105
+*2026-11-14 23:08 UTC · id `xlsQfkZGlD0M`*
+
+```
+DAL @ CLE
+Pick: Over 228.5 -> Over 227.5
+Odds: -107 -> -105
+Book: FanDuel -> Caesars
+Size: 3.79 units -> 4.51 units
+Market edge: +6.73 pp -> +7.98 pp
+Estimated profit per $100 wagered: +$14.18 -> +$19.05
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Caesars | Model size: 4.51 units
+Market edge: +7.98 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.05
+
+Regular Season | Nov 14, 2026 | 6:08 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -105 (Caesars), checked 90.7 min after alert: Caesars had 227.5 -120 → same line, odds noticeably worse; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:14 UTC · id `YlhPajhC6kdv`*
+
+```
+DAL @ CLE
+Odds: -105 -> +104
+Book: Caesars -> BetMGM
+Estimated profit per $100 wagered: +$19.05 -> +$24.39
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.98 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:14 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 85 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:17 UTC · id `jO73UJfcNptQ`*
+
+```
+DAL @ CLE
+Size: 4.51 units -> 4.71 units
+Market edge: +7.98 pp -> +8.46 pp
+Confidence: Medium -> High
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.71 units
+Market edge: +8.46 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:17 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 82 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:20 UTC · id `dp9ibf77rYEk`*
+
+```
+DAL @ CLE
+Size: 4.71 units -> 4.80 units
+Market edge: +8.46 pp -> +8.69 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.80 units
+Market edge: +8.69 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:20 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 79 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:24 UTC · id `77Q5fidZPyMl`*
+
+```
+DAL @ CLE
+Size: 4.80 units -> 4.71 units
+Market edge: +8.69 pp -> +8.46 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.71 units
+Market edge: +8.46 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:24 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 75 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:26 UTC · id `A2s28F1sPZZX`*
+
+```
+DAL @ CLE
+Size: 4.71 units -> 4.80 units
+Market edge: +8.46 pp -> +8.69 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.80 units
+Market edge: +8.69 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:26 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 73 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at +104
+*2026-11-14 23:29 UTC · id `uzfI7p0InTa7`*
+
+```
+DAL @ CLE
+Size: 4.80 units -> 4.71 units
+Market edge: +8.69 pp -> +8.46 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.71 units
+Market edge: +8.46 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.39
+
+Regular Season | Nov 14, 2026 | 6:29 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 70 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Picks: 3 new
+*2026-11-14 23:32 UTC · id `cSPcJEaFmeR7`*
+
+```
+New picks (3):
+DET @ MIA: DET -4.5 at -100
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.12 units
+Market edge: +9.47 pp | Confidence: High
+Estimated profit per $100 wagered: +$11.13
+
+BKN @ MEM: MEM -3.5 at -108
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.32 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.78
+
+BKN @ MEM: Over 225.0 at -105
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +9.35 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.40
+
+Other active picks in the games checked (1):
+DAL @ CLE: Over 227.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:32 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 -100 (BetMGM), checked 66.7 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+- Odds check: BKN @ MEM MEM -3.5 -108 (BetMGM), checked 66.7 min after alert: BetMGM had -4.5 -102 → different line; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -3.5 -122 (alt line)
+- Odds check: BKN @ MEM Over 225.0 -105 (Hard Rock Bet), checked 66.7 min after alert: no free odds feed covers Hard Rock Bet; other books shown; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, BetMGM 224.5 -110, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 225 +102 (alt line)
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-14 23:35 UTC · id `3Z7d7qR7VNGi`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at +104
+Size: 4.71 units -> 4.51 units
+Market edge: +8.46 pp -> +7.98 pp
+Confidence: High -> Medium
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.98 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$24.39
+
+DET @ MIA: DET -4.5 at -100
+Size: 2.12 units -> 2.23 units
+Market edge: +9.47 pp -> +9.69 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.23 units
+Market edge: +9.69 pp | Confidence: High
+Estimated profit per $100 wagered: +$11.13
+
+BKN @ MEM: MEM -3.5 at -108
+Market edge: +9.32 pp -> +9.33 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.33 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.78
+
+Other active picks in the games checked (1):
+BKN @ MEM: Over 225.0 at -105 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:35 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 +104 (BetMGM), checked 63.8 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: DET @ MIA DET -4.5 -100 (BetMGM), checked 63.8 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+- Odds check: BKN @ MEM MEM -3.5 -108 (BetMGM), checked 63.8 min after alert: BetMGM had -4.5 -102 → different line; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -3.5 -122 (alt line)
+
+## NBA [Price unverified] Pick Updated: MEM -3.5 at -108
+*2026-11-14 23:38 UTC · id `FQQZC0OKI3Tq`*
+
+```
+BKN @ MEM
+Market edge: +9.33 pp -> +9.11 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.11 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.78
+
+Other active picks in the games checked (3):
+DET @ MIA: DET -4.5 at -100 (price unverified)
+BKN @ MEM: Over 225.0 at -105 (price unverified)
+DAL @ CLE: Over 227.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:38 PM EST
+```
+
+- Odds check: BKN @ MEM MEM -3.5 -108 (BetMGM), checked 60.5 min after alert: BetMGM had -4.5 -102 → different line; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -3.5 -122 (alt line)
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-14 23:41 UTC · id `Uw0SjLZKxs6a`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at -100
+Odds: +104 -> -100
+Estimated profit per $100 wagered: +$24.39 -> +$21.95
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.98 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$21.95
+
+DET @ MIA: DET -4.5 at +104
+Odds: -100 -> +104
+Estimated profit per $100 wagered: +$11.13 -> +$13.35
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.23 units
+Market edge: +9.69 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+BKN @ MEM: Over 224.5 at -108
+Pick: Over 225.0 -> Over 224.5
+Odds: -105 -> -108
+Book: Hard Rock Bet -> BetMGM
+Market edge: +9.35 pp -> +9.13 pp
+Estimated profit per $100 wagered: +$19.40 -> +$19.64
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.13 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.64
+
+Other active picks in the games checked (1):
+BKN @ MEM: MEM -3.5 at -108 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:41 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -100 (BetMGM), checked 57.8 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 57.8 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+- Odds check: BKN @ MEM Over 224.5 -108 (BetMGM), checked 57.8 min after alert: BetMGM had 224.5 -110 → same line and odds; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: DET -4.5 at +104
+*2026-11-14 23:44 UTC · id `2vgmQAOwJ2A9`*
+
+```
+DET @ MIA
+Market edge: +9.69 pp -> +9.47 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.23 units
+Market edge: +9.47 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+Other active picks in the games checked (3):
+BKN @ MEM: Over 224.5 at -108 (price unverified)
+BKN @ MEM: MEM -3.5 at -108 (price unverified)
+DAL @ CLE: Over 227.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:44 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 54.8 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+
+## NBA [Price unverified] Pick Updated: Over 224.5 at -108
+*2026-11-14 23:47 UTC · id `Fn73QBb9goIx`*
+
+```
+BKN @ MEM
+Market edge: +9.13 pp -> +8.90 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +8.90 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.64
+
+Other active picks in the games checked (3):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+BKN @ MEM: MEM -3.5 at -108 (price unverified)
+DAL @ CLE: Over 227.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:47 PM EST
+```
+
+- Odds check: BKN @ MEM Over 224.5 -108 (BetMGM), checked 51.7 min after alert: BetMGM had 224.5 -110 → same line and odds; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-14 23:54 UTC · id `2mLD5IwfCILi`*
+
+```
+Updated picks (2):
+DET @ MIA: DET -4.5 at +104
+Size: 2.23 units -> 2.12 units
+Market edge: +9.47 pp -> +9.24 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.12 units
+Market edge: +9.24 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+BKN @ MEM: Over 224.5 at -108
+Size: 5.00 units -> 4.83 units
+Market edge: +8.90 pp -> +8.44 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.83 units
+Market edge: +8.44 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.64
+
+Other active picks in the games checked (2):
+BKN @ MEM: MEM -3.5 at -108 (price unverified)
+DAL @ CLE: Over 227.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 6:54 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 45.1 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+- Odds check: BKN @ MEM Over 224.5 -108 (BetMGM), checked 45.1 min after alert: BetMGM had 224.5 -110 → same line and odds; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: MEM -3.5 at -104
+*2026-11-15 00:02 UTC · id `AICT8QLTjobJ`*
+
+```
+BKN @ MEM
+Odds: -108 -> -104
+Estimated profit per $100 wagered: +$21.78 -> +$24.03
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.11 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.03
+
+Other active picks in the games checked (3):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+BKN @ MEM: Over 224.5 at -108 (price unverified)
+DAL @ CLE: Over 227.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:02 PM EST
+```
+
+- Odds check: BKN @ MEM MEM -3.5 -104 (BetMGM), checked 36.8 min after alert: BetMGM had -4.5 -102 → different line; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -3.5 -122 (alt line)
+
+## NBA [Price unverified] Pick Updated: Over 227.5 at -100
+*2026-11-15 00:08 UTC · id `R35RbvBD1YLf`*
+
+```
+DAL @ CLE
+Size: 4.51 units -> 4.71 units
+Market edge: +7.98 pp -> +8.46 pp
+Confidence: Medium -> High
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.71 units
+Market edge: +8.46 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.95
+
+Other active picks in the games checked (3):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+BKN @ MEM: MEM -3.5 at -104 (price unverified)
+BKN @ MEM: Over 224.5 at -108 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:08 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -100 (BetMGM), checked 30.5 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:11 UTC · id `3TMpRGHlVJrO`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at -104
+Odds: -100 -> -104
+Estimated profit per $100 wagered: +$21.95 -> +$19.60
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.71 units
+Market edge: +8.46 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.60
+
+BKN @ MEM: MEM -4.5 at -105
+Pick: MEM -3.5 -> MEM -4.5
+Odds: -104 -> -105
+Book: BetMGM -> FanDuel
+Size: 5.00 units -> 4.69 units
+Market edge: +9.11 pp -> +8.48 pp
+Estimated profit per $100 wagered: +$24.03 -> +$18.63
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 4.69 units
+Market edge: +8.48 pp | Confidence: High
+Estimated profit per $100 wagered: +$18.63
+
+BKN @ MEM: Over 224.5 at -104
+Odds: -108 -> -104
+Estimated profit per $100 wagered: +$19.64 -> +$21.85
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.83 units
+Market edge: +8.44 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.85
+
+Other active picks in the games checked (1):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:11 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 27.9 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: BKN @ MEM MEM -4.5 -105 (FanDuel), checked 27.9 min after alert: FanDuel had -4.5 -105 → same line and odds; elsewhere: DraftKings -4.5 -103, BetRivers -4.5 -109, BetMGM -4.5 -102, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+- Odds check: BKN @ MEM Over 224.5 -104 (BetMGM), checked 27.9 min after alert: BetMGM had 224.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:14 UTC · id `D4bkMiJrGW1Y`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at -104
+Size: 4.71 units -> 4.51 units
+Market edge: +8.46 pp -> +7.99 pp
+Confidence: High -> Medium
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.99 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.60
+
+BKN @ MEM: MEM -4.0 at -115
+Pick: MEM -4.5 -> MEM -4.0
+Odds: -105 -> -115
+Book: FanDuel -> Hard Rock Bet
+Size: 4.69 units -> 4.58 units
+Market edge: +8.48 pp -> +7.88 pp
+Estimated profit per $100 wagered: +$18.63 -> +$15.92
+Confidence: High -> Medium
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 4.58 units
+Market edge: +7.88 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$15.92
+
+BKN @ MEM: Over 224.5 at -104
+Size: 4.83 units -> 4.92 units
+Market edge: +8.44 pp -> +8.67 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.92 units
+Market edge: +8.67 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.85
+
+Other active picks in the games checked (1):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:14 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 24.9 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: BKN @ MEM MEM -4.0 -115 (Hard Rock Bet), checked 24.9 min after alert: no free odds feed covers Hard Rock Bet; other books shown; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, BetMGM -4.5 -102, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4 -112 (alt line)
+- Odds check: BKN @ MEM Over 224.5 -104 (BetMGM), checked 24.9 min after alert: BetMGM had 224.5 -110 → same line, odds slightly worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 00:17 UTC · id `LBcc6qFT30BG`*
+
+```
+Updated picks (2):
+BKN @ MEM: MEM -4.5 at -103
+Pick: MEM -4.0 -> MEM -4.5
+Odds: -115 -> -103
+Book: Hard Rock Bet -> FanDuel
+Size: 4.58 units -> 4.89 units
+Market edge: +7.88 pp -> +8.96 pp
+Estimated profit per $100 wagered: +$15.92 -> +$19.76
+Confidence: Medium -> High
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 4.89 units
+Market edge: +8.96 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.76
+
+BKN @ MEM: Over 224.5 at -100
+Odds: -104 -> -100
+Size: 4.92 units -> 5.00 units
+Market edge: +8.67 pp -> +8.90 pp
+Estimated profit per $100 wagered: +$21.85 -> +$24.24
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +8.90 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.24
+
+Other active picks in the games checked (2):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+DAL @ CLE: Over 227.5 at -104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:17 PM EST
+```
+
+- Odds check: BKN @ MEM MEM -4.5 -103 (FanDuel), checked 21.8 min after alert: FanDuel had -4.5 -105 → same line and odds; elsewhere: DraftKings -4.5 -103, BetRivers -4.5 -109, BetMGM -4.5 -102, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+- Odds check: BKN @ MEM Over 224.5 -100 (BetMGM), checked 21.8 min after alert: BetMGM had 224.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 00:20 UTC · id `xktWvMF1bPQy`*
+
+```
+Updated picks (2):
+DAL @ CLE: Over 227.5 at -104
+Market edge: +7.99 pp -> +7.98 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.98 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.60
+
+DET @ MIA: DET -4.5 at +104
+Market edge: +9.24 pp -> +9.01 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.12 units
+Market edge: +9.01 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+Other active picks in the games checked (2):
+BKN @ MEM: MEM -4.5 at -103 (price unverified)
+BKN @ MEM: Over 224.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:20 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 18.9 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 18.9 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:24 UTC · id `5Exl6mOiTxsw`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at -104
+Market edge: +7.98 pp -> +7.99 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.51 units
+Market edge: +7.99 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.60
+
+BKN @ MEM: MEM -4.5 at -105
+Odds: -103 -> -105
+Book: FanDuel -> Pinnacle
+Size: 4.89 units -> 4.79 units
+Market edge: +8.96 pp -> +8.71 pp
+Estimated profit per $100 wagered: +$19.76 -> +$18.63
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 4.79 units
+Market edge: +8.71 pp | Confidence: High
+Estimated profit per $100 wagered: +$18.63
+
+BKN @ MEM: Over 224.5 at -100
+Market edge: +8.90 pp -> +9.13 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.13 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.24
+
+Other active picks in the games checked (1):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:24 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 14.9 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: BKN @ MEM MEM -4.5 -105 (Pinnacle), checked 14.9 min after alert: Pinnacle had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, BetMGM -4.5 -102, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100
+- Odds check: BKN @ MEM Over 224.5 -100 (BetMGM), checked 14.9 min after alert: BetMGM had 224.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:26 UTC · id `FmcAYN0QMKLT`*
+
+```
+Updated picks (3):
+DAL @ CLE: Over 227.5 at -104
+Size: 4.51 units -> 4.32 units
+Market edge: +7.99 pp -> +7.53 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.32 units
+Market edge: +7.53 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.60
+
+BKN @ MEM: MEM -4.5 at -100
+Odds: -105 -> -100
+Book: Pinnacle -> BetMGM
+Estimated profit per $100 wagered: +$18.63 -> +$21.53
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.79 units
+Market edge: +8.71 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+BKN @ MEM: Over 224.5 at +104
+Odds: -100 -> +104
+Estimated profit per $100 wagered: +$24.24 -> +$26.73
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.13 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.73
+
+Other active picks in the games checked (1):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:26 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 12.8 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM), checked 12.8 min after alert: BetMGM had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+- Odds check: BKN @ MEM Over 224.5 +104 (BetMGM), checked 12.8 min after alert: BetMGM had 224.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 00:29 UTC · id `ko5OTcBNMXgf`*
+
+```
+Updated picks (2):
+DAL @ CLE: Over 227.5 at -104
+Size: 4.32 units -> 4.22 units
+Market edge: +7.53 pp -> +7.30 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.22 units
+Market edge: +7.30 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.60
+
+BKN @ MEM: MEM -4.5 at -100
+Market edge: +8.71 pp -> +8.72 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.79 units
+Market edge: +8.72 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+Other active picks in the games checked (2):
+BKN @ MEM: Over 224.5 at +104 (price unverified)
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:29 PM EST
+```
+
+- Odds check: DAL @ CLE Over 227.5 -104 (BetMGM), checked 9.9 min after alert: no free odds feed covers BetMGM; other books shown; elsewhere: DraftKings 228.5 -108, FanDuel 227.5 -108, BetRivers 227.5 -113, bet365 227.5 -111, Caesars 227.5 -120, Fanatics 227.5 -110, theScore Bet 227.5 -115, Pinnacle 227.5 -116
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM), checked 9.9 min after alert: BetMGM had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+
+## NBA [Price unverified] Pick Updated: MEM -4.5 at -100
+*2026-11-15 00:32 UTC · id `zRzKLAFz7YBo`*
+
+```
+BKN @ MEM
+Size: 4.79 units -> 4.60 units
+Market edge: +8.72 pp -> +8.24 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.60 units
+Market edge: +8.24 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+Other active picks in the games checked (2):
+BKN @ MEM: Over 224.5 at +104 (price unverified)
+DET @ MIA: DET -4.5 at +104 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:32 PM EST
+```
+
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM), checked 6.9 min after alert: BetMGM had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+
+## NBA [Price unverified] Pick Updated: Over 224.0 at -105
+*2026-11-15 00:35 UTC · id `R5P32eIkNvO4`*
+
+```
+BKN @ MEM
+Pick: Over 224.5 -> Over 224.0
+Odds: +104 -> -105
+Book: BetMGM -> Hard Rock Bet
+Market edge: +9.13 pp -> +11.28 pp
+Estimated profit per $100 wagered: +$26.73 -> +$23.16
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +11.28 pp | Confidence: High
+Estimated profit per $100 wagered: +$23.16
+
+Other active picks in the games checked (2):
+DET @ MIA: DET -4.5 at +104 (price unverified)
+BKN @ MEM: MEM -4.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:35 PM EST
+```
+
+- Odds check: BKN @ MEM Over 224.0 -105 (Hard Rock Bet), checked 3.9 min after alert: no free odds feed covers Hard Rock Bet; other books shown; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, BetMGM 224.5 -110, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224 -107
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:38 UTC · id `qV6Tol61xwej`*
+
+```
+Updated picks (3):
+DET @ MIA: DET -4.5 at +104
+Size: 2.12 units -> 1.89 units
+Market edge: +9.01 pp -> +9.02 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 1.89 units
+Market edge: +9.02 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+BKN @ MEM: MEM -4.5 at -100
+Size: 4.60 units -> 4.89 units
+Market edge: +8.24 pp -> +8.96 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.89 units
+Market edge: +8.96 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+BKN @ MEM: Over 224.5 at +104
+Pick: Over 224.0 -> Over 224.5
+Odds: -105 -> +104
+Book: Hard Rock Bet -> BetMGM
+Market edge: +11.28 pp -> +9.13 pp
+Estimated profit per $100 wagered: +$23.16 -> +$26.73
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +9.13 pp | Confidence: High
+Estimated profit per $100 wagered: +$26.73
+
+Regular Season | Nov 14, 2026 | 7:38 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 0.6 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM), checked 0.6 min after alert: BetMGM had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
+- Odds check: BKN @ MEM Over 224.5 +104 (BetMGM), checked 0.6 min after alert: BetMGM had 224.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
