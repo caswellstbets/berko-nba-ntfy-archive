@@ -4036,3 +4036,139 @@ Regular Season | Nov 14, 2026 | 7:38 PM EST
 - Odds check: DET @ MIA DET -4.5 +104 (BetMGM), checked 0.6 min after alert: BetMGM had -4.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings -4.5 -108, FanDuel -4.5 -106, BetRivers -4.5 -114, bet365 -4.5 -107, Caesars -4 -110, Fanatics -4.5 -105, theScore Bet -4.5 -115, Pinnacle -4.5 -104
 - Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM), checked 0.6 min after alert: BetMGM had -4.5 -102 → same line and odds; elsewhere: DraftKings -4.5 -103, FanDuel -4.5 -105, BetRivers -4.5 -109, bet365 -4.5 -104, Caesars -4.5 -115, Fanatics -4.5 -105, theScore Bet -4.5 +100, Pinnacle -4.5 -102
 - Odds check: BKN @ MEM Over 224.5 +104 (BetMGM), checked 0.6 min after alert: BetMGM had 224.5 -110 → same line, odds noticeably worse; elsewhere: DraftKings 223.5 -115, FanDuel 224.5 -110, BetRivers 224.5 -114, bet365 224.5 -110, Caesars 224 -105, Fanatics 224.5 -110, theScore Bet 224.5 -105, Pinnacle 224.5 -103 (alt line)
+
+## NBA [Price unverified] Pick Updated: DET -4.5 at +104
+*2026-11-15 00:47 UTC · id `4dGQ8vfkghUe`*
+
+```
+DET @ MIA
+Size: 1.89 units -> 2.01 units
+Market edge: +9.02 pp -> +9.01 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.01 units
+Market edge: +9.01 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+Other active picks in the games checked (2):
+BKN @ MEM: Over 224.5 at +104 (price unverified)
+BKN @ MEM: MEM -4.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:47 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: DET -4.5 at +104
+*2026-11-15 00:50 UTC · id `YgHxmULrVMsp`*
+
+```
+DET @ MIA
+Size: 2.01 units -> 1.89 units
+Market edge: +9.01 pp -> +8.55 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 1.89 units
+Market edge: +8.55 pp | Confidence: High
+Estimated profit per $100 wagered: +$13.35
+
+Other active picks in the games checked (2):
+BKN @ MEM: Over 224.5 at +104 (price unverified)
+BKN @ MEM: MEM -4.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:50 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:53 UTC · id `ZKu1fROGDvp7`*
+
+```
+Updated picks (3):
+DET @ MIA: DET -4.5 at -104
+Odds: +104 -> -104
+Estimated profit per $100 wagered: +$13.35 -> +$8.99
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 1.89 units
+Market edge: +8.55 pp | Confidence: High
+Estimated profit per $100 wagered: +$8.99
+
+BKN @ MEM: MEM -4.5 at -100
+Size: 4.89 units -> 4.69 units
+Market edge: +8.96 pp -> +8.47 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.69 units
+Market edge: +8.47 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+BKN @ MEM: Over 223.5 at -110
+Pick: Over 224.5 -> Over 223.5
+Odds: +104 -> -110
+Book: BetMGM -> FanDuel
+Market edge: +9.13 pp -> +10.34 pp
+Estimated profit per $100 wagered: +$26.73 -> +$22.24
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +10.34 pp | Confidence: High
+Estimated profit per $100 wagered: +$22.24
+
+Regular Season | Nov 14, 2026 | 7:53 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BKN @ MEM Over 223.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 3 updated
+*2026-11-15 00:56 UTC · id `7UL0hpGgMgmL`*
+
+```
+Updated picks (3):
+DET @ MIA: DET -4.5 at -104
+Size: 1.89 units -> 2.01 units
+Market edge: +8.55 pp -> +9.01 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.01 units
+Market edge: +9.01 pp | Confidence: High
+Estimated profit per $100 wagered: +$8.99
+
+BKN @ MEM: MEM -4.5 at -100
+Size: 4.69 units -> 4.79 units
+Market edge: +8.47 pp -> +8.72 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.79 units
+Market edge: +8.72 pp | Confidence: High
+Estimated profit per $100 wagered: +$21.53
+
+BKN @ MEM: Over 223.5 at -110
+Market edge: +10.34 pp -> +11.04 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +11.04 pp | Confidence: High
+Estimated profit per $100 wagered: +$22.24
+
+Regular Season | Nov 14, 2026 | 7:56 PM EST
+```
+
+- Odds check: DET @ MIA DET -4.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BKN @ MEM MEM -4.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: BKN @ MEM Over 223.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 223.5 at -110
+*2026-11-15 00:59 UTC · id `AI8voFrAixBA`*
+
+```
+BKN @ MEM
+Book: FanDuel -> Pinnacle
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +11.04 pp | Confidence: High
+Estimated profit per $100 wagered: +$22.24
+
+Other active picks in the games checked (2):
+DET @ MIA: DET -4.5 at -104 (price unverified)
+BKN @ MEM: MEM -4.5 at -100 (price unverified)
+
+Regular Season | Nov 14, 2026 | 7:59 PM EST
+```
+
+- Odds check: BKN @ MEM Over 223.5 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone

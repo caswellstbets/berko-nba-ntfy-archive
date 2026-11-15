@@ -2,6 +2,23 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-15 07:08 UTC
+
+- Added `4dGQ8vfkghUe` (2026-11-15 00:47 UTC): NBA [Price unverified] Pick Updated: DET -4.5 at +104
+- Added `YgHxmULrVMsp` (2026-11-15 00:50 UTC): NBA [Price unverified] Pick Updated: DET -4.5 at +104
+- Added `ZKu1fROGDvp7` (2026-11-15 00:53 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `7UL0hpGgMgmL` (2026-11-15 00:56 UTC): NBA [Price unverified] Picks: 3 updated
+- Added `AI8voFrAixBA` (2026-11-15 00:59 UTC): NBA [Price unverified] Pick Updated: Over 223.5 at -110
+- Odds check `4dGQ8vfkghUe`: DET @ MIA DET -4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YgHxmULrVMsp`: DET @ MIA DET -4.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ZKu1fROGDvp7`: DET @ MIA DET -4.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ZKu1fROGDvp7`: BKN @ MEM MEM -4.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ZKu1fROGDvp7`: BKN @ MEM Over 223.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `7UL0hpGgMgmL`: DET @ MIA DET -4.5 -104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `7UL0hpGgMgmL`: BKN @ MEM MEM -4.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `7UL0hpGgMgmL`: BKN @ MEM Over 223.5 -110 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `AI8voFrAixBA`: BKN @ MEM Over 223.5 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-15 00:39 UTC
 
 - Added `bfmRGqZZECqF` (2026-11-14 23:02 UTC): NBA [Price unverified] New Pick: Over 228.0 at -110
