@@ -4181,3 +4181,432 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## NBA [Price unverified] New Pick: LAC -1.5 at -103
+*2026-11-15 21:24 UTC · id `AA2AMkpT8E6a`*
+
+```
+CHA @ LAC
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +11.47 pp | Confidence: High
+Estimated profit per $100 wagered: +$24.71
+
+Regular Season | Nov 15, 2026 | 4:24 PM EST
+```
+
+- Odds check: CHA @ LAC LAC -1.5 -103 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: LAC -1.5 at +104
+*2026-11-15 21:26 UTC · id `LJhSysXYBYsi`*
+
+```
+CHA @ LAC
+Odds: -103 -> +104
+Book: Pinnacle -> BetMGM
+Estimated profit per $100 wagered: +$24.71 -> +$29.08
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +11.47 pp | Confidence: High
+Estimated profit per $100 wagered: +$29.08
+
+Regular Season | Nov 15, 2026 | 4:26 PM EST
+```
+
+- Odds check: CHA @ LAC LAC -1.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 new
+*2026-11-15 21:32 UTC · id `BSBLcoMlRovG`*
+
+```
+New picks (2):
+NYK @ TOR: TOR +4.5 at -108
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.98 units
+Market edge: +8.88 pp | Confidence: High
+Estimated profit per $100 wagered: +$19.14
+
+NYK @ TOR: Over 217.5 at -110
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +14.06 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.16
+
+Regular Season | Nov 15, 2026 | 4:32 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: NYK @ TOR Over 217.5 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 21:35 UTC · id `uKXFkg6VpwDv`*
+
+```
+Updated picks (2):
+NYK @ TOR: TOR +4.5 at -108
+Size: 4.98 units -> 4.50 units
+Market edge: +8.88 pp -> +7.74 pp
+Confidence: High -> Medium
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.50 units
+Market edge: +7.74 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.14
+
+NYK @ TOR: Over 217.5 at -110
+Market edge: +14.06 pp -> +14.05 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +14.05 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.16
+
+Regular Season | Nov 15, 2026 | 4:35 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: NYK @ TOR Over 217.5 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -110
+*2026-11-15 21:38 UTC · id `YfpgakDoiPci`*
+
+```
+NYK @ TOR
+Book: Hard Rock Bet -> Fliff
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 5.00 units
+Market edge: +14.05 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.16
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +4.5 at -108 (price unverified)
+
+Regular Season | Nov 15, 2026 | 4:38 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +4.5 at -108
+*2026-11-15 21:44 UTC · id `RKOSeCrDti6z`*
+
+```
+NYK @ TOR
+Size: 4.50 units -> 4.41 units
+Market edge: +7.74 pp -> +7.52 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.41 units
+Market edge: +7.52 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$19.14
+
+Other active picks in the games checked (1):
+NYK @ TOR: Over 217.5 at -110 (price unverified)
+
+Regular Season | Nov 15, 2026 | 4:44 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 21:47 UTC · id `5XMR2WcSwOHn`*
+
+```
+Updated picks (2):
+NYK @ TOR: TOR +4.5 at -110
+Odds: -108 -> -110
+Book: BetMGM -> Fliff
+Estimated profit per $100 wagered: +$19.14 -> +$18.10
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 4.41 units
+Market edge: +7.52 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$18.10
+
+NYK @ TOR: Over 217.5 at -110
+Market edge: +14.05 pp -> +14.06 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Fliff | Model size: 5.00 units
+Market edge: +14.06 pp | Confidence: High
+Estimated profit per $100 wagered: +$30.16
+
+Regular Season | Nov 15, 2026 | 4:47 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +4.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: NYK @ TOR Over 217.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 21:59 UTC · id `06uDLdzYPVaU`*
+
+```
+Updated picks (2):
+NYK @ TOR: TOR +4.0 at -110
+Pick: TOR +4.5 -> TOR +4.0
+Book: Fliff -> Hard Rock Bet
+Size: 4.41 units -> 5.00 units
+Market edge: +7.52 pp -> +7.63 pp
+Estimated profit per $100 wagered: +$18.10 -> +$15.73
+Confidence: Medium -> High
+Sharp support: No -> Yes
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Hard Rock Bet | Model size: 5.00 units
+Market edge: +7.63 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$15.73
+
+NYK @ TOR: Over 217.5 at -115
+Odds: -110 -> -115
+Book: Fliff -> Pinnacle
+Estimated profit per $100 wagered: +$30.16 -> +$27.47
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +14.06 pp | Confidence: High
+Estimated profit per $100 wagered: +$27.47
+
+Regular Season | Nov 15, 2026 | 4:59 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +4.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -115
+*2026-11-15 22:02 UTC · id `rOWjioLWNo62`*
+
+```
+NYK @ TOR
+Book: Pinnacle -> FanDuel
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +14.06 pp | Confidence: High
+Estimated profit per $100 wagered: +$27.47
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +4.0 at -110 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:02 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -115 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -115
+*2026-11-15 22:08 UTC · id `frjceaCps9de`*
+
+```
+NYK @ TOR
+Book: FanDuel -> Pinnacle
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +14.06 pp | Confidence: High
+Estimated profit per $100 wagered: +$27.47
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +4.0 at -110 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:08 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: TOR +3.5 at +104
+*2026-11-15 22:14 UTC · id `xpeAqR1yN7po`*
+
+```
+NYK @ TOR
+Pick: TOR +4.0 -> TOR +3.5
+Odds: -110 -> +104
+Book: Hard Rock Bet -> BetMGM
+Market edge: +7.63 pp -> +7.56 pp
+Estimated profit per $100 wagered: +$15.73 -> +$21.11
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +7.56 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$21.11
+
+Other active picks in the games checked (1):
+NYK @ TOR: Over 217.5 at -115 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:14 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -115
+*2026-11-15 22:24 UTC · id `PSckmrulZ3k1`*
+
+```
+NYK @ TOR
+Market edge: +14.06 pp -> +14.05 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +14.05 pp | Confidence: High
+Estimated profit per $100 wagered: +$27.47
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:24 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -113
+*2026-11-15 22:38 UTC · id `lEwefY8NYZDf`*
+
+```
+NYK @ TOR
+Odds: -115 -> -113
+Book: Pinnacle -> FanDuel
+Estimated profit per $100 wagered: +$27.47 -> +$28.52
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +14.05 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.52
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:38 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -112
+*2026-11-15 22:41 UTC · id `FWCJ7nuBxCi7`*
+
+```
+NYK @ TOR
+Odds: -113 -> -112
+Book: FanDuel -> Pinnacle
+Market edge: +14.05 pp -> +14.27 pp
+Estimated profit per $100 wagered: +$28.52 -> +$29.05
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +14.27 pp | Confidence: High
+Estimated profit per $100 wagered: +$29.05
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:41 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -112 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 218.0 at -109
+*2026-11-15 22:44 UTC · id `qP1ZyDtk5OBa`*
+
+```
+NYK @ TOR
+Pick: Over 217.5 -> Over 218.0
+Odds: -112 -> -109
+Estimated profit per $100 wagered: +$29.05 -> +$28.99
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: Pinnacle | Model size: 5.00 units
+Market edge: +14.27 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.99
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:44 PM EST
+```
+
+- Odds check: NYK @ TOR Over 218.0 -109 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -113
+*2026-11-15 22:47 UTC · id `8Xhb0JBQqbT2`*
+
+```
+NYK @ TOR
+Pick: Over 218.0 -> Over 217.5
+Odds: -109 -> -113
+Book: Pinnacle -> FanDuel
+Market edge: +14.27 pp -> +14.05 pp
+Estimated profit per $100 wagered: +$28.99 -> +$28.52
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +14.05 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.52
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:47 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: Over 217.5 at -113
+*2026-11-15 22:54 UTC · id `rTrNC1OKR2Qt`*
+
+```
+NYK @ TOR
+Market edge: +14.05 pp -> +14.27 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: FanDuel | Model size: 5.00 units
+Market edge: +14.27 pp | Confidence: High
+Estimated profit per $100 wagered: +$28.52
+
+Other active picks in the games checked (1):
+NYK @ TOR: TOR +3.5 at +104 (price unverified)
+
+Regular Season | Nov 15, 2026 | 5:54 PM EST
+```
+
+- Odds check: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Picks: 2 updated
+*2026-11-15 22:59 UTC · id `414gHlHUoA3J`*
+
+```
+Updated picks (2):
+NYK @ TOR: TOR +3.5 at +104
+Size: 5.00 units -> 4.89 units
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 4.89 units
+Market edge: +7.56 pp | Confidence: High | Sharp support
+Estimated profit per $100 wagered: +$21.11
+
+NYK @ TOR: Over 218.5 at -100
+Pick: Over 217.5 -> Over 218.5
+Odds: -113 -> -100
+Book: FanDuel -> BetMGM
+Market edge: +14.27 pp -> +13.36 pp
+Estimated profit per $100 wagered: +$28.52 -> +$32.71
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 5.00 units
+Market edge: +13.36 pp | Confidence: High
+Estimated profit per $100 wagered: +$32.71
+
+Regular Season | Nov 15, 2026 | 5:59 PM EST
+```
+
+- Odds check: NYK @ TOR TOR +3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check: NYK @ TOR Over 218.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] New Pick: MIL +8.5 at -100
+*2026-11-15 23:32 UTC · id `BYHCHagfyrhl`*
+
+```
+ATL @ MIL
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.51 units
+Market edge: +4.15 pp | Confidence: Low
+Estimated profit per $100 wagered: +$14.74
+
+Regular Season | Nov 15, 2026 | 6:32 PM EST
+```
+
+- Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM), checked 8.1 min after alert: BetMGM had 8.5 -115 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -115, FanDuel 8.5 -110, BetRivers 8.5 -108, bet365 8.5 -110, Caesars 8.5 -110, Fanatics 8.5 -110, theScore Bet 8.5 -115, Pinnacle 8.5 -106
+
+## NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+*2026-11-15 23:35 UTC · id `d6rcrvuId775`*
+
+```
+ATL @ MIL
+Size: 2.51 units -> 2.62 units
+Market edge: +4.15 pp -> +4.38 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.62 units
+Market edge: +4.38 pp | Confidence: Low
+Estimated profit per $100 wagered: +$14.74
+
+Regular Season | Nov 15, 2026 | 6:35 PM EST
+```
+
+- Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM), checked 5.1 min after alert: BetMGM had 8.5 -115 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -115, FanDuel 8.5 -110, BetRivers 8.5 -108, bet365 8.5 -110, Caesars 8.5 -110, Fanatics 8.5 -110, theScore Bet 8.5 -115, Pinnacle 8.5 -106

@@ -2,6 +2,54 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-15 23:40 UTC
+
+- Added `AA2AMkpT8E6a` (2026-11-15 21:24 UTC): NBA [Price unverified] New Pick: LAC -1.5 at -103
+- Added `LJhSysXYBYsi` (2026-11-15 21:26 UTC): NBA [Price unverified] Pick Updated: LAC -1.5 at +104
+- Added `BSBLcoMlRovG` (2026-11-15 21:32 UTC): NBA [Price unverified] Picks: 2 new
+- Added `uKXFkg6VpwDv` (2026-11-15 21:35 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `YfpgakDoiPci` (2026-11-15 21:38 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -110
+- Added `RKOSeCrDti6z` (2026-11-15 21:44 UTC): NBA [Price unverified] Pick Updated: TOR +4.5 at -108
+- Added `5XMR2WcSwOHn` (2026-11-15 21:47 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `06uDLdzYPVaU` (2026-11-15 21:59 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `rOWjioLWNo62` (2026-11-15 22:02 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -115
+- Added `frjceaCps9de` (2026-11-15 22:08 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -115
+- Added `xpeAqR1yN7po` (2026-11-15 22:14 UTC): NBA [Price unverified] Pick Updated: TOR +3.5 at +104
+- Added `PSckmrulZ3k1` (2026-11-15 22:24 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -115
+- Added `lEwefY8NYZDf` (2026-11-15 22:38 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -113
+- Added `FWCJ7nuBxCi7` (2026-11-15 22:41 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -112
+- Added `qP1ZyDtk5OBa` (2026-11-15 22:44 UTC): NBA [Price unverified] Pick Updated: Over 218.0 at -109
+- Added `8Xhb0JBQqbT2` (2026-11-15 22:47 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -113
+- Added `rTrNC1OKR2Qt` (2026-11-15 22:54 UTC): NBA [Price unverified] Pick Updated: Over 217.5 at -113
+- Added `414gHlHUoA3J` (2026-11-15 22:59 UTC): NBA [Price unverified] Picks: 2 updated
+- Added `BYHCHagfyrhl` (2026-11-15 23:32 UTC): NBA [Price unverified] New Pick: MIL +8.5 at -100
+- Added `d6rcrvuId775` (2026-11-15 23:35 UTC): NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+- Odds check `AA2AMkpT8E6a`: CHA @ LAC LAC -1.5 -103 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `LJhSysXYBYsi`: CHA @ LAC LAC -1.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `BSBLcoMlRovG`: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `BSBLcoMlRovG`: NYK @ TOR Over 217.5 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `uKXFkg6VpwDv`: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `uKXFkg6VpwDv`: NYK @ TOR Over 217.5 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `YfpgakDoiPci`: NYK @ TOR Over 217.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `RKOSeCrDti6z`: NYK @ TOR TOR +4.5 -108 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `5XMR2WcSwOHn`: NYK @ TOR TOR +4.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `5XMR2WcSwOHn`: NYK @ TOR Over 217.5 -110 (Fliff): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `06uDLdzYPVaU`: NYK @ TOR TOR +4.0 -110 (Hard Rock Bet): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `06uDLdzYPVaU`: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `rOWjioLWNo62`: NYK @ TOR Over 217.5 -115 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `frjceaCps9de`: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `xpeAqR1yN7po`: NYK @ TOR TOR +3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `PSckmrulZ3k1`: NYK @ TOR Over 217.5 -115 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `lEwefY8NYZDf`: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `FWCJ7nuBxCi7`: NYK @ TOR Over 217.5 -112 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `qP1ZyDtk5OBa`: NYK @ TOR Over 218.0 -109 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `8Xhb0JBQqbT2`: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `rTrNC1OKR2Qt`: NYK @ TOR Over 217.5 -113 (FanDuel): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `414gHlHUoA3J`: NYK @ TOR TOR +3.5 +104 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `414gHlHUoA3J`: NYK @ TOR Over 218.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `BYHCHagfyrhl`: ATL @ MIL MIL +8.5 -100 (BetMGM), checked 8.1 min after alert: BetMGM had 8.5 -115 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -115, FanDuel 8.5 -110, BetRivers 8.5 -108, bet365 8.5 -110, Caesars 8.5 -110, Fanatics 8.5 -110, theScore Bet 8.5 -115, Pinnacle 8.5 -106
+- Odds check `d6rcrvuId775`: ATL @ MIL MIL +8.5 -100 (BetMGM), checked 5.1 min after alert: BetMGM had 8.5 -115 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -115, FanDuel 8.5 -110, BetRivers 8.5 -108, bet365 8.5 -110, Caesars 8.5 -110, Fanatics 8.5 -110, theScore Bet 8.5 -115, Pinnacle 8.5 -106
+
 ## 2026-11-15 14:42 UTC
 
 - Added `QVt6H8eDBpSR` (2026-11-15 14:30 UTC): PAPER MLB 2026-11-15: no edges
