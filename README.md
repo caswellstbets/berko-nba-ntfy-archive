@@ -4172,3 +4172,12 @@ Regular Season | Nov 14, 2026 | 7:59 PM EST
 ```
 
 - Odds check: BKN @ MEM Over 223.5 -110 (Pinnacle): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-15: no edges
+*2026-11-15 14:30 UTC · id `QVt6H8eDBpSR`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
