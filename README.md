@@ -4662,3 +4662,12 @@ Regular Season | Nov 15, 2026 | 7:47 PM EST
 ```
 
 - Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## PAPER MLB 2026-11-16: no edges
+*2026-11-16 14:30 UTC · id `dfyVlU6JDYK2`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```

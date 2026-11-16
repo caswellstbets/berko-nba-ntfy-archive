@@ -2,6 +2,10 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-16 20:55 UTC
+
+- Added `dfyVlU6JDYK2` (2026-11-16 14:30 UTC): PAPER MLB 2026-11-16: no edges
+
 ## 2026-11-16 03:09 UTC
 
 - Added `ccbTD80kqqNb` (2026-11-16 00:38 UTC): NBA [Price unverified] Pick Updated: MIL +8.5 at -100
