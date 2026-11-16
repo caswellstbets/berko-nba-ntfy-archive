@@ -2,6 +2,15 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-16 03:09 UTC
+
+- Added `ccbTD80kqqNb` (2026-11-16 00:38 UTC): NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+- Added `H4mqNtJRGqO7` (2026-11-16 00:44 UTC): NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+- Added `ACWCTVBhl8ud` (2026-11-16 00:47 UTC): NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+- Odds check `ccbTD80kqqNb`: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `H4mqNtJRGqO7`: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+- Odds check `ACWCTVBhl8ud`: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
 ## 2026-11-15 23:40 UTC
 
 - Added `AA2AMkpT8E6a` (2026-11-15 21:24 UTC): NBA [Price unverified] New Pick: LAC -1.5 at -103

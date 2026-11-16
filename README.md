@@ -4610,3 +4610,55 @@ Regular Season | Nov 15, 2026 | 6:35 PM EST
 ```
 
 - Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM), checked 5.1 min after alert: BetMGM had 8.5 -115 → same line, odds noticeably worse; elsewhere: DraftKings 8.5 -115, FanDuel 8.5 -110, BetRivers 8.5 -108, bet365 8.5 -110, Caesars 8.5 -110, Fanatics 8.5 -110, theScore Bet 8.5 -115, Pinnacle 8.5 -106
+
+## NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+*2026-11-16 00:38 UTC · id `ccbTD80kqqNb`*
+
+```
+ATL @ MIL
+Size: 2.62 units -> 2.73 units
+Market edge: +4.38 pp -> +4.61 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.73 units
+Market edge: +4.61 pp | Confidence: Low
+Estimated profit per $100 wagered: +$14.74
+
+Regular Season | Nov 15, 2026 | 7:38 PM EST
+```
+
+- Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+*2026-11-16 00:44 UTC · id `H4mqNtJRGqO7`*
+
+```
+ATL @ MIL
+Size: 2.73 units -> 2.83 units
+Market edge: +4.61 pp -> +4.85 pp
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 2.83 units
+Market edge: +4.85 pp | Confidence: Low
+Estimated profit per $100 wagered: +$14.74
+
+Regular Season | Nov 15, 2026 | 7:44 PM EST
+```
+
+- Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
+
+## NBA [Price unverified] Pick Updated: MIL +8.5 at -100
+*2026-11-16 00:47 UTC · id `ACWCTVBhl8ud`*
+
+```
+ATL @ MIL
+Size: 2.83 units -> 3.05 units
+Market edge: +4.85 pp -> +5.33 pp
+Confidence: Low -> Medium
+Price unverified: confirm at sportsbook. Action Network does not provide the book's update time.
+Book to check: BetMGM | Model size: 3.05 units
+Market edge: +5.33 pp | Confidence: Medium
+Estimated profit per $100 wagered: +$14.74
+
+Regular Season | Nov 15, 2026 | 7:47 PM EST
+```
+
+- Odds check: ATL @ MIL MIL +8.5 -100 (BetMGM): not checked, game had already started when checked, so pregame odds were gone
