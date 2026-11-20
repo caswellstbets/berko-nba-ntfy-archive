@@ -2,6 +2,10 @@
 
 Newest first. Written automatically each time a check finds something.
 
+## 2026-11-20 20:45 UTC
+
+- Added `8GOHefAVmWGP` (2026-11-20 14:30 UTC): PAPER MLB 2026-11-20: no edges
+
 ## 2026-11-19 17:03 UTC
 
 - Added `4nB3UQEMS9ff` (2026-11-19 14:30 UTC): PAPER MLB 2026-11-19: no edges
