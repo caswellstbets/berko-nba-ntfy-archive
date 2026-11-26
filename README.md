@@ -4752,3 +4752,12 @@ PAPER MODE: do not wager. All markets are shadow-only.
 
 Scanned 0 games — nothing above the edge threshold.
 ```
+
+## PAPER MLB 2026-11-26: no edges
+*2026-11-26 14:30 UTC · id `2McEMuzbxhM8`*
+
+```
+PAPER MODE: do not wager. All markets are shadow-only.
+
+Scanned 0 games — nothing above the edge threshold.
+```
